@@ -1,9 +1,16 @@
-const express = require('express');
+import express from 'express';
+import {
+  getQuestions,
+  submitExam,
+  getAllResults,
+  getResultById
+} from '../controllers/examController.js';
+
 const router = express.Router();
-const { getQuestions, submitExam, getResults } = require('../controllers/examController');
 
 router.get('/questions', getQuestions);
 router.post('/submit-exam', submitExam);
-router.get('/results', getResults);
+router.get('/results', getAllResults);
+router.get('/result/:id', getResultById);
 
-module.exports = router;
+export default router;

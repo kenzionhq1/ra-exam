@@ -1,4 +1,4 @@
-const mongoose = require('mongoose');
+import mongoose from 'mongoose';
 
 const QuestionSchema = new mongoose.Schema({
   rank: { type: String, required: true },
@@ -7,4 +7,4 @@ const QuestionSchema = new mongoose.Schema({
   correctAnswer: { type: String, required: true }
 });
 
-module.exports = mongoose.model('Question', QuestionSchema);
+export default mongoose.model('Question', QuestionSchema);

@@ -1,11 +1,11 @@
-const mongoose = require('mongoose');
+import mongoose from 'mongoose';
 
 const ResultSchema = new mongoose.Schema({
-  name: { type: String, required: true },
-  rank: { type: String, required: true },
-  score: { type: Number, required: true },
-  percentage: { type: Number, required: true },
-  totalQuestions: { type: Number, required: true },
+  name: String,
+  rank: String,
+  score: Number,
+  percentage: Number,
+  totalQuestions: Number,
   answers: [
     {
       question: String,
@@ -16,4 +16,4 @@ const ResultSchema = new mongoose.Schema({
   ]
 }, { timestamps: true });
 
-module.exports = mongoose.model('Result', ResultSchema);
+export default mongoose.model('Result', ResultSchema);

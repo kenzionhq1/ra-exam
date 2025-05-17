@@ -1,7 +1,7 @@
-const express = require('express');
+import express from 'express';
+import { startExam } from '../controllers/authController.js';
 const router = express.Router();
-const { startExam } = require('../controllers/authController');
 
 router.post('/start-exam', startExam);
 
-module.exports = router;
+export default router;
