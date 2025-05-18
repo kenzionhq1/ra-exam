@@ -3,6 +3,13 @@ import Result from '../models/Result.js';
 export const startExam = async (req, res) => {
   const { name, rank } = req.body;
 
+  if (!name || !rank) {
+    return res.status(400).json({
+      success: false,
+      message: 'Name and rank are required.'
+    });
+  }
+
   const existing = await Result.findOne({ name, rank });
   if (existing) {
     return res.json({

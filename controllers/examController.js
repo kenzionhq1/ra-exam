@@ -34,7 +34,7 @@ export const submitExam = async (req, res) => {
     };
   });
 
-  const percentage = Math.round((score / questions.length) * 100);
+  const percentage = Math.round((score / questions.length) * 50);
   const result = new Result({ name, rank, score, percentage, totalQuestions: questions.length, answers: review });
   await result.save();
 
