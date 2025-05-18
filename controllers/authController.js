@@ -1,11 +1,21 @@
-import User from '../models/User.js';
+import Result from '../models/Result.js';
 
 export const startExam = async (req, res) => {
   const { name, rank } = req.body;
-  if (!name || !rank) return res.status(400).json({ success: false, message: 'Name and rank required' });
 
-  const user = await User.findOne({ name, rank });
-  if (!user) return res.status(403).json({ success: false, message: 'You are not registered.' });
+  const existing = await Result.findOne({ name, rank });
+  if (existing) {
+    return res.json({
+      success: true,
+      allowed: false,
+      alreadySubmitted: true,
+      result: existing
+    });
+  }
 
-  res.json({ success: true, allowed: true });
+  // Allow first-time users
+  return res.json({
+    success: true,
+    allowed: true
+  });
 };
