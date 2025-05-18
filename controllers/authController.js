@@ -14,6 +14,9 @@ export const startExam = async (req, res) => {
   }
 
   // Allow first-time users
+  const newResult = new Result({ name, rank });
+  await newResult.save();
+
   return res.json({
     success: true,
     allowed: true
