@@ -10,7 +10,7 @@ export const getQuestions = async (req, res) => {
   const shuffled = all.sort(() => 0.5 - Math.random());
 
   // Pick first 100
-  const selected = shuffled.slice(0, 100);
+  const selected = shuffled.slice(0, 50);
 
   res.json({ success: true, questions: selected });
 };
@@ -34,7 +34,7 @@ export const submitExam = async (req, res) => {
     };
   });
 
-  const percentage = Math.round((score / questions.length) * 50);
+  const percentage = Math.round((score / questions.length) * 100);
   const result = new Result({ name, rank, score, percentage, totalQuestions: questions.length, answers: review });
   await result.save();
 
