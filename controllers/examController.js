@@ -3,9 +3,19 @@ import Result from '../models/Result.js';
 
 export const getQuestions = async (req, res) => {
   const { rank } = req.query;
-  const questions = await Question.find({ rank }).select('-correctAnswer');
-  res.json({ success: true, questions });
+
+  const all = await Question.find({ rank }).select('-correctAnswer');
+
+  // Shuffle questions randomly
+  const shuffled = all.sort(() => 0.5 - Math.random());
+
+  // Pick first 100
+  const selected = shuffled.slice(0, 100);
+
+  res.json({ success: true, questions: selected });
 };
+
+
 
 export const submitExam = async (req, res) => {
   const { name, rank, answers } = req.body;

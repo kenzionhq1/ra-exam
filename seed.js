@@ -6,11 +6,48 @@ dotenv.config();
 
 const questions = [
   {
+    rank: "Special Envoy",
+    question: "What is 2 + 2?",
+    options: ["3", "4", "5", "6"],
+    correctAnswer: "4"
+  },
+
+  {
+    rank: "Special Envoy",
+    question: "What is 2 + 2?",
+    options: ["3", "4", "5", "6"],
+    correctAnswer: "4"
+  },
+  {
+    rank: "Senior Envoy",
+    question: "What is 2 + 2?",
+    options: ["3", "4", "5", "6"],
+    correctAnswer: "4"
+  },
+  {
+    rank: "Envoy",
+    question: "What is 2 + 2?",
+    options: ["3", "4", "5", "6"],
+    correctAnswer: "4"
+  },
+  {
     rank: "Intern",
     question: "What is 2 + 2?",
     options: ["3", "4", "5", "6"],
     correctAnswer: "4"
-  }
+  },
+  {
+    rank: "Senior Intern",
+    question: "What is 2 + 2?",
+    options: ["3", "4", "5", "6"],
+    correctAnswer: "4"
+  },
+  {
+    rank: "Junior Intern",
+    question: "What is 2 + 2?",
+    options: ["3", "4", "5", "6"],
+    correctAnswer: "4"
+  },
   // Add more per rank
 ];
 

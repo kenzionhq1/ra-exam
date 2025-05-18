@@ -5,8 +5,15 @@ import User from './models/User.js';
 dotenv.config();
 
 const users = [
-  { name: "Grace Uche", rank: "Intern" },
-  { name: "Fatima Bello", rank: "Senior Envoy" }
+  { name: "Kolade Paul", rank: "Senior Intern" },
+  { name: "Adeosun Bamishe ", rank: "Senior Intern" },
+  {name: "Osho Mubarak", rank: "Senior Intern"},
+  {name: "Ajuwon Eniowo", rank: "Intern"},
+  {name: "Opawole Demilade", rank: "Envoy"},
+  {name: "Olalere Adedayo", rank: "Envoy"},
+  {name: "Ogunfowora Kehinde", rank: "Special Envoy"},
+  {name: "Kayode Assabga", rank: "Senior Envoy"},
+  {name: "Olalere Ayomide", rank: "Senior Envoy"},
 ];
 
 mongoose.connect(process.env.MONGO_URI).then(async () => {

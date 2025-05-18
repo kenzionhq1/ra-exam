@@ -4,9 +4,16 @@ import cors from 'cors';
 import dotenv from 'dotenv';
 import path from 'path';
 import { fileURLToPath } from 'url';
+import compression from 'compression';
+app.use(compression());
 
 import authRoutes from './routes/authRoutes.js';
 import examRoutes from './routes/examRoutes.js';
+
+
+app.get('/api/ping', (req, res) => {
+  res.send("PONG");
+});
 
 dotenv.config();
 const app = express();
