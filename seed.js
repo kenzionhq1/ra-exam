@@ -4869,10 +4869,4336 @@ const questions = [
         "Becoming an annual tradition"
       ],
       "correctAnswer": "Bringing spiritual growth, unity, and gospel impact"
-    }
+    },
   
   
-  
+    
+      {
+        "rank": "Senior Intern",
+        "question": "Why is it important for a Senior Intern to let their light shine before others, according to Matthew 5:16?",
+        "options": [
+          "To gain favor in the chapter",
+          "To be honored by church leaders",
+          "So others may see their good works and glorify God",
+          "To impress other youth groups"
+        ],
+        "correctAnswer": "So others may see their good works and glorify God"
+      },
+      {
+        "rank": "Senior Intern",
+        "question": "What is the biblical foundation for helping others without public display?",
+        "options": [
+          "Proverbs 3:5",
+          "Matthew 6:1",
+          "Genesis 1:1",
+          "John 3:16"
+        ],
+        "correctAnswer": "Matthew 6:1"
+      },
+      {
+        "rank": "Senior Intern",
+        "question": "Which of the following best reflects the RA goal to 'live clean'?",
+        "options": [
+          "Following RA uniform rules",
+          "Maintaining moral purity in speech and conduct",
+          "Doing chores daily",
+          "Cleaning the RA hall regularly"
+        ],
+        "correctAnswer": "Maintaining moral purity in speech and conduct"
+      },
+      {
+        "rank": "Senior Intern",
+        "question": "What should a Senior Intern do when others mock his faith during an outreach?",
+        "options": [
+          "Avoid returning to that location",
+          "Respond with Scripture in anger",
+          "Walk away and stop talking",
+          "Respond in love and remain confident in Christ"
+        ],
+        "correctAnswer": "Respond in love and remain confident in Christ"
+      },
+      {
+        "rank": "Senior Intern",
+        "question": "Why is teamwork emphasized in the Senior Intern service project requirement?",
+        "options": [
+          "To help complete tasks faster",
+          "To increase participation marks",
+          "To demonstrate unity and shared responsibility in Christ",
+          "To improve chapter visibility"
+        ],
+        "correctAnswer": "To demonstrate unity and shared responsibility in Christ"
+      },
+      {
+        "rank": "Senior Intern",
+        "question": "Which verse reminds Senior Interns that 'whatever you do, work at it with all your heart as working for the Lord'?",
+        "options": [
+          "Luke 10:25",
+          "Colossians 3:23",
+          "Romans 6:23",
+          "Matthew 28:19"
+        ],
+        "correctAnswer": "Colossians 3:23"
+      },
+      {
+        "rank": "Senior Intern",
+        "question": "What leadership principle is shown when a Senior Intern admits a mistake publicly and corrects it?",
+        "options": [
+          "Weakness",
+          "Transparency and humility",
+          "Unpreparedness",
+          "Crisis management"
+        ],
+        "correctAnswer": "Transparency and humility"
+      },
+      {
+        "rank": "Senior Intern",
+        "question": "Why should a Senior Intern seek counsel when uncertain during a mission task?",
+        "options": [
+          "To avoid being blamed later",
+          "To learn wisdom and grow in decision-making",
+          "To get another person involved",
+          "To shift responsibility"
+        ],
+        "correctAnswer": "To learn wisdom and grow in decision-making"
+      },
+      {
+        "rank": "Senior Intern",
+        "question": "How should a Senior Intern handle praise after leading a successful project?",
+        "options": [
+          "Boast about it during meetings",
+          "Share credit and give thanks to God",
+          "Request leadership nomination",
+          "Remain silent and detached"
+        ],
+        "correctAnswer": "Share credit and give thanks to God"
+      },
+      {
+        "rank": "Senior Intern",
+        "question": "What kind of influence should a Senior Intern have on new RA members?",
+        "options": [
+          "An example of authority and correction",
+          "A mentor who models integrity and love",
+          "A task-giver during meetings",
+          "A co-leader in drills and inspections"
+        ],
+        "correctAnswer": "A mentor who models integrity and love"
+      },
+      {
+        "rank": "Senior Intern",
+        "question": "Which of the following best expresses the purpose of RA service?",
+        "options": [
+          "To keep the chapter active",
+          "To prepare for higher ranks",
+          "To reflect Christ through action in the world",
+          "To learn time management"
+        ],
+        "correctAnswer": "To reflect Christ through action in the world"
+      },
+      {
+        "rank": "Senior Intern",
+        "question": "What attitude should a Senior Intern maintain if they are given a task beneath their skill level?",
+        "options": [
+          "Refuse it and ask for a bigger role",
+          "Do it quietly as unto the Lord",
+          "Complain about misuse of talents",
+          "Ask for a partner immediately"
+        ],
+        "correctAnswer": "Do it quietly as unto the Lord"
+      },
+      {
+        "rank": "Senior Intern",
+        "question": "Why is faithfulness more important than visibility in RA leadership?",
+        "options": [
+          "It avoids criticism",
+          "It pleases counselors most",
+          "God rewards heart-driven service, not performance",
+          "It keeps your profile low"
+        ],
+        "correctAnswer": "God rewards heart-driven service, not performance"
+      },
+      {
+        "rank": "Senior Intern",
+        "question": "Which verse best motivates a Senior Intern to stay strong during discouraging moments?",
+        "options": [
+          "Isaiah 40:31",
+          "Genesis 2:18",
+          "Exodus 20:3",
+          "Matthew 6:33"
+        ],
+        "correctAnswer": "Isaiah 40:31"
+      },
+      {
+        "rank": "Senior Intern",
+        "question": "What makes servant leadership different from general leadership?",
+        "options": [
+          "It focuses on strategy and delegation",
+          "It focuses on gaining authority quickly",
+          "It centers on selfless care for others, as modeled by Christ",
+          "It allows the leader to set all rules"
+        ],
+        "correctAnswer": "It centers on selfless care for others, as modeled by Christ"
+      },
+      {
+        "rank": "Senior Intern",
+        "question": "How can a Senior Intern measure the impact of their mission activity?",
+        "options": [
+          "By how much was accomplished quickly",
+          "By how many thanked them",
+          "By signs of changed lives and deeper connections to Christ",
+          "By approval from officials"
+        ],
+        "correctAnswer": "By signs of changed lives and deeper connections to Christ"
+      },
+      {
+        "rank": "Senior Intern",
+        "question": "Which character quality is tested when a Senior Intern is falsely accused?",
+        "options": [
+          "Confidence",
+          "Wisdom",
+          "Patience and grace",
+          "Flexibility"
+        ],
+        "correctAnswer": "Patience and grace"
+      },
+      {
+        "rank": "Senior Intern",
+        "question": "What is the most Christlike response to being corrected in front of others?",
+        "options": [
+          "Correcting the leader in return",
+          "Remaining silent but bitter",
+          "Humbly accepting correction and learning from it",
+          "Explaining later why it was wrong"
+        ],
+        "correctAnswer": "Humbly accepting correction and learning from it"
+      },
+      {
+        "rank": "Senior Intern",
+        "question": "Which of the following verses most encourages godly leadership by example?",
+        "options": [
+          "1 Timothy 4:12",
+          "Acts 1:8",
+          "Psalm 100:4",
+          "John 3:30"
+        ],
+        "correctAnswer": "1 Timothy 4:12"
+      },
+      {
+        "rank": "Senior Intern",
+        "question": "What is the primary mark of spiritual maturity in the Senior Intern level?",
+        "options": [
+          "Quoting long passages",
+          "Leading chapter meetings",
+          "Obedience, humility, and faithful service without applause",
+          "Organizing camp programs"
+        ],
+        "correctAnswer": "Obedience, humility, and faithful service without applause"
+      },
+    
+
+
+      {
+        "rank": "Envoy",
+        "question": "What is the primary purpose of the RA Envoy rank in developing Christian character? (Q1)",
+        "options": [
+          "To teach history of missions",
+          "To prepare members for church elections",
+          "To help members reflect the lifestyle of Christ through advanced service and learning",
+          "To lead drills during church events"
+        ],
+        "correctAnswer": "To help members reflect the lifestyle of Christ through advanced service and learning"
+      },
+      {
+        "rank": "Envoy",
+        "question": "Why must an Envoy understand the responsibilities of each RA officer role? (Q1)",
+        "options": [
+          "To replace any officer when absent",
+          "To criticize their performance when needed",
+          "To gain insight into servant leadership and teamwork",
+          "To prepare for church administration"
+        ],
+        "correctAnswer": "To gain insight into servant leadership and teamwork"
+      },
+      {
+        "rank": "Envoy",
+        "question": "According to Matthew 28:19–20, how does the Envoy rank relate to global missions? (Q1)",
+        "options": [
+          "It encourages national loyalty",
+          "It focuses on foreign policy discussions",
+          "It calls members to actively participate in making disciples across cultures",
+          "It reduces the need for memorization"
+        ],
+        "correctAnswer": "It calls members to actively participate in making disciples across cultures"
+      },
+      {
+        "rank": "Envoy",
+        "question": "How does completing a detailed project report build the discipline of an RA Envoy? (Q1)",
+        "options": [
+          "It adds points to their exam score",
+          "It creates a lasting written record of participation",
+          "It strengthens responsibility, planning, and spiritual reflection",
+          "It improves writing for competitions"
+        ],
+        "correctAnswer": "It strengthens responsibility, planning, and spiritual reflection"
+      },
+      {
+        "rank": "Envoy",
+        "question": "What leadership trait is tested when an Envoy is assigned a task that others avoid? (Q1)",
+        "options": [
+          "Knowledge",
+          "Charm",
+          "Sacrifice and dependability under pressure",
+          "Ability to delegate"
+        ],
+        "correctAnswer": "Sacrifice and dependability under pressure"
+      },
+    
+      {
+        "rank": "Envoy",
+        "question": "What is the primary purpose of the RA Envoy rank in developing Christian character? (Q2)",
+        "options": [
+          "To teach history of missions",
+          "To prepare members for church elections",
+          "To help members reflect the lifestyle of Christ through advanced service and learning",
+          "To lead drills during church events"
+        ],
+        "correctAnswer": "To help members reflect the lifestyle of Christ through advanced service and learning"
+      },
+      {
+        "rank": "Envoy",
+        "question": "Why must an Envoy understand the responsibilities of each RA officer role? (Q2)",
+        "options": [
+          "To replace any officer when absent",
+          "To criticize their performance when needed",
+          "To gain insight into servant leadership and teamwork",
+          "To prepare for church administration"
+        ],
+        "correctAnswer": "To gain insight into servant leadership and teamwork"
+      },
+      {
+        "rank": "Envoy",
+        "question": "According to Matthew 28:19–20, how does the Envoy rank relate to global missions? (Q2)",
+        "options": [
+          "It encourages national loyalty",
+          "It focuses on foreign policy discussions",
+          "It calls members to actively participate in making disciples across cultures",
+          "It reduces the need for memorization"
+        ],
+        "correctAnswer": "It calls members to actively participate in making disciples across cultures"
+      },
+      {
+        "rank": "Envoy",
+        "question": "How does completing a detailed project report build the discipline of an RA Envoy? (Q2)",
+        "options": [
+          "It adds points to their exam score",
+          "It creates a lasting written record of participation",
+          "It strengthens responsibility, planning, and spiritual reflection",
+          "It improves writing for competitions"
+        ],
+        "correctAnswer": "It strengthens responsibility, planning, and spiritual reflection"
+      },
+      {
+        "rank": "Envoy",
+        "question": "What leadership trait is tested when an Envoy is assigned a task that others avoid? (Q2)",
+        "options": [
+          "Knowledge",
+          "Charm",
+          "Sacrifice and dependability under pressure",
+          "Ability to delegate"
+        ],
+        "correctAnswer": "Sacrifice and dependability under pressure"
+      },
+
+      {
+        "rank": "Envoy",
+        "question": "Which of the following best describes the attitude expected of an Envoy when leading a younger team?",
+        "options": [
+          "Confidence and competition",
+          "Correction and command",
+          "Humility, patience, and servant leadership",
+          "Distance and authority"
+        ],
+        "correctAnswer": "Humility, patience, and servant leadership"
+      },
+      {
+        "rank": "Envoy",
+        "question": "What does Acts 1:8 teach Envoys about their mission responsibility?",
+        "options": [
+          "They must attend more church events",
+          "They will receive power to witness locally and globally",
+          "They should focus on RA ranks only",
+          "They should memorize all Psalms"
+        ],
+        "correctAnswer": "They will receive power to witness locally and globally"
+      },
+      {
+        "rank": "Envoy",
+        "question": "When leading a chapter devotional, what quality must an Envoy prioritize?",
+        "options": [
+          "Length of the message",
+          "Perfect recitation",
+          "Spiritual relevance and clarity",
+          "Participation of senior officers"
+        ],
+        "correctAnswer": "Spiritual relevance and clarity"
+      },
+      {
+        "rank": "Envoy",
+        "question": "What action best shows that an Envoy understands Christ’s model of leadership?",
+        "options": [
+          "Leading confidently during competitions",
+          "Instructing others without needing help",
+          "Serving others even when no one is watching",
+          "Delegating most tasks to juniors"
+        ],
+        "correctAnswer": "Serving others even when no one is watching"
+      },
+      {
+        "rank": "Envoy",
+        "question": "Which verse aligns with the RA goal of helping others as part of our calling?",
+        "options": [
+          "John 1:1",
+          "Psalm 23:1",
+          "Galatians 6:2",
+          "Acts 2:1"
+        ],
+        "correctAnswer": "Galatians 6:2"
+      },
+      {
+        "rank": "Envoy",
+        "question": "What is a major leadership challenge Envoys may face during group work?",
+        "options": [
+          "Over-attendance",
+          "Lack of uniform",
+          "Lack of participation and disagreement",
+          "Frequent meetings"
+        ],
+        "correctAnswer": "Lack of participation and disagreement"
+      },
+      {
+        "rank": "Envoy",
+        "question": "Why is evaluating past RA mission efforts important for an Envoy?",
+        "options": [
+          "To compare chapters",
+          "To prepare for debates",
+          "To learn from experiences and improve future projects",
+          "To record success for awards"
+        ],
+        "correctAnswer": "To learn from experiences and improve future projects"
+      },
+      {
+        "rank": "Envoy",
+        "question": "What distinguishes the service of an Envoy from that of lower ranks?",
+        "options": [
+          "Wider knowledge of church structure",
+          "Ability to lead parades",
+          "Deeper spiritual accountability and independent leadership",
+          "Familiarity with event planning"
+        ],
+        "correctAnswer": "Deeper spiritual accountability and independent leadership"
+      },
+      {
+        "rank": "Envoy",
+        "question": "What is the spiritual value of completing an RA mission assignment with minimal supervision?",
+        "options": [
+          "It qualifies the Envoy for the next rank",
+          "It proves maturity and personal responsibility before God",
+          "It earns applause from the congregation",
+          "It shows good memory"
+        ],
+        "correctAnswer": "It proves maturity and personal responsibility before God"
+      },
+      {
+        "rank": "Envoy",
+        "question": "How can Envoys encourage younger RAs to prepare for leadership?",
+        "options": [
+          "Giving instructions regularly",
+          "Demonstrating consistent service and offering mentorship",
+          "Repeating RA pledges to them",
+          "Telling them to study more verses"
+        ],
+        "correctAnswer": "Demonstrating consistent service and offering mentorship"
+      },
+    
+      {
+        "rank": "Envoy",
+        "question": "Why must an Envoy memorize and explain selected Bible passages?",
+        "options": [
+          "To earn distinction",
+          "To preach regularly",
+          "To deepen their biblical foundation and connect truth to service",
+          "To perform during RA parade"
+        ],
+        "correctAnswer": "To deepen their biblical foundation and connect truth to service"
+      },
+      {
+        "rank": "Envoy",
+        "question": "When others do not appreciate your efforts, how should an Envoy respond?",
+        "options": [
+          "Remind them publicly",
+          "Reduce participation",
+          "Continue serving with humility and faith",
+          "Refuse future roles"
+        ],
+        "correctAnswer": "Continue serving with humility and faith"
+      },
+      {
+        "rank": "Envoy",
+        "question": "Which biblical figure most closely models mission courage like that of an RA Envoy?",
+        "options": [
+          "Nicodemus",
+          "Paul",
+          "Zacchaeus",
+          "Ananias"
+        ],
+        "correctAnswer": "Paul"
+      },
+      {
+        "rank": "Envoy",
+        "question": "What does spiritual leadership mean for an RA Envoy?",
+        "options": [
+          "Being the loudest voice in meetings",
+          "Living as an example of Christ in character, service, and word",
+          "Memorizing RA requirements",
+          "Quoting more verses than others"
+        ],
+        "correctAnswer": "Living as an example of Christ in character, service, and word"
+      },
+      {
+        "rank": "Envoy",
+        "question": "Which of the following best describes the balance expected of an Envoy in church, home, and school?",
+        "options": [
+          "Academic performance over spirituality",
+          "Strong faith and visible integrity in all spheres",
+          "Leading RA activities mainly",
+          "Planning events mostly in church"
+        ],
+        "correctAnswer": "Strong faith and visible integrity in all spheres"
+      },
+      {
+        "rank": "Envoy",
+        "question": "Why should an Envoy avoid serving only when praised?",
+        "options": [
+          "It’s not in the handbook",
+          "It looks prideful",
+          "It shows immaturity and misplaces focus from God's glory",
+          "It delays promotions"
+        ],
+        "correctAnswer": "It shows immaturity and misplaces focus from God's glory"
+      },
+      {
+        "rank": "Envoy",
+        "question": "What does John 13:15 teach Envoys about Christian leadership?",
+        "options": [
+          "Leadership must be visible",
+          "There are levels of spiritual growth",
+          "Jesus left an example of service for us to follow",
+          "Memorization must come before mission"
+        ],
+        "correctAnswer": "Jesus left an example of service for us to follow"
+      },
+      {
+        "rank": "Envoy",
+        "question": "What makes a mission project successful at the Envoy level?",
+        "options": [
+          "Creative decoration and participation",
+          "A completed group photo",
+          "Evangelism, spiritual growth, and reflection of Christ",
+          "Number of gifts received"
+        ],
+        "correctAnswer": "Evangelism, spiritual growth, and reflection of Christ"
+      },
+      {
+        "rank": "Envoy",
+        "question": "What does Colossians 3:23 encourage Envoys to remember?",
+        "options": [
+          "Work should be rewarded immediately",
+          "All RA tasks should be competitive",
+          "Work heartily as unto the Lord, not man",
+          "Leaders must be noticed first"
+        ],
+        "correctAnswer": "Work heartily as unto the Lord, not man"
+      },
+      {
+        "rank": "Envoy",
+        "question": "Why should RA Envoys serve even when no one is watching?",
+        "options": [
+          "To test their memory",
+          "To avoid correction",
+          "To honor God and live out real integrity",
+          "To finish quickly"
+        ],
+        "correctAnswer": "To honor God and live out real integrity"
+      },
+
+
+  {
+    "rank": "Envoy",
+    "question": "What lesson should Envoys learn from Luke 10:2 about Christian missions?",
+    "options": [
+      "Only pastors should do missions",
+      "The mission field is small and slow",
+      "The harvest is plentiful but the workers are few",
+      "You must travel abroad to serve"
+    ],
+    "correctAnswer": "The harvest is plentiful but the workers are few"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Which leadership failure should an Envoy avoid during chapter service?",
+    "options": [
+      "Speaking too quietly",
+      "Volunteering often",
+      "Ignoring others' contributions",
+      "Dressing improperly"
+    ],
+    "correctAnswer": "Ignoring others' contributions"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What is one responsibility of an Envoy during a local RA mission outreach?",
+    "options": [
+      "Take attendance",
+      "Distribute food only",
+      "Represent Christ through conduct and words",
+      "Lead entertainment activities"
+    ],
+    "correctAnswer": "Represent Christ through conduct and words"
+  },
+  {
+    "rank": "Envoy",
+    "question": "How does the RA motto apply to an Envoy's leadership?",
+    "options": [
+      "It encourages respect for rules",
+      "It reminds him to be active in all meetings",
+      "It calls him to represent Christ daily in speech, action, and love",
+      "It grants authority over junior ranks"
+    ],
+    "correctAnswer": "It calls him to represent Christ daily in speech, action, and love"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What should be an Envoy's response if he notices disunity in a mission team?",
+    "options": [
+      "Report and step back",
+      "Stay silent to avoid conflict",
+      "Promote peace and unity through love and dialogue",
+      "Ask the counselor to replace some members"
+    ],
+    "correctAnswer": "Promote peace and unity through love and dialogue"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Why must an Envoy study the duties of all chapter officers?",
+    "options": [
+      "To become the president next year",
+      "To participate in voting procedures",
+      "To better understand servant leadership and respect all roles",
+      "To monitor their performance"
+    ],
+    "correctAnswer": "To better understand servant leadership and respect all roles"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Which biblical command reminds Envoys to persevere in mission even when it is hard?",
+    "options": [
+      "Matthew 5:9",
+      "James 1:12",
+      "Mark 16:15",
+      "John 11:35"
+    ],
+    "correctAnswer": "Mark 16:15"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What attitude should an Envoy show when assisting junior members in their rank work?",
+    "options": [
+      "Criticism for their mistakes",
+      "Pride in being senior",
+      "Guidance, humility, and care",
+      "Disinterest unless told to help"
+    ],
+    "correctAnswer": "Guidance, humility, and care"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Why are written reports part of the Envoy requirement?",
+    "options": [
+      "For record keeping",
+      "To compete with other chapters",
+      "To reflect spiritually and build discipline in tracking progress",
+      "To reduce counselor work"
+    ],
+    "correctAnswer": "To reflect spiritually and build discipline in tracking progress"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What does an Envoy demonstrate by completing a task without supervision?",
+    "options": [
+      "Efficiency",
+      "Maturity and internal motivation rooted in Christ",
+      "Ambition",
+      "Authority over peers"
+    ],
+    "correctAnswer": "Maturity and internal motivation rooted in Christ"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Which of these best reflects the RA commitment to 'help others always'?",
+    "options": [
+      "Wait for instruction before acting",
+      "Only help those who are friends",
+      "Offer support even when inconvenient or unnoticed",
+      "Give help for rewards"
+    ],
+    "correctAnswer": "Offer support even when inconvenient or unnoticed"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What should motivate an Envoy to lead in worship or Bible sharing?",
+    "options": [
+      "Chapter expectations",
+      "The desire to be seen",
+      "Spiritual conviction and love for Christ",
+      "Fulfilling a role"
+    ],
+    "correctAnswer": "Spiritual conviction and love for Christ"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Which of these proves that an Envoy has moved beyond basic RA knowledge?",
+    "options": [
+      "He memorizes more verses",
+      "He wears the full uniform",
+      "He leads with wisdom and models Christ to others",
+      "He scores highest in chapter quiz"
+    ],
+    "correctAnswer": "He leads with wisdom and models Christ to others"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Why is self-reflection a critical skill at the Envoy level?",
+    "options": [
+      "It helps with public speaking",
+      "It strengthens promotion chances",
+      "It builds spiritual awareness and growth from past experiences",
+      "It avoids repeated assignments"
+    ],
+    "correctAnswer": "It builds spiritual awareness and growth from past experiences"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Which of the following would disqualify a behavior as Christlike service?",
+    "options": [
+      "Quietly helping carry materials for an outreach",
+      "Encouraging others to join an RA event",
+      "Boasting about personal effort and expecting praise",
+      "Writing a reflection after a mission"
+    ],
+    "correctAnswer": "Boasting about personal effort and expecting praise"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What is the biblical reason RA Envoys serve others regardless of recognition?",
+    "options": [
+      "To win respect",
+      "Because the manual requires it",
+      "Because Christ served selflessly and calls us to follow",
+      "Because others expect it"
+    ],
+    "correctAnswer": "Because Christ served selflessly and calls us to follow"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What verse should an Envoy remember when tempted to quit due to difficulty?",
+    "options": [
+      "Matthew 6:33",
+      "Romans 5:3–4",
+      "Psalm 100:1",
+      "Genesis 1:28"
+    ],
+    "correctAnswer": "Romans 5:3–4"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What is one mark of a spiritually mature RA Envoy?",
+    "options": [
+      "He avoids tough assignments",
+      "He seeks high positions regularly",
+      "He encourages others and accepts correction joyfully",
+      "He always has the final say"
+    ],
+    "correctAnswer": "He encourages others and accepts correction joyfully"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Which of these best expresses RA's mission goal in a local community?",
+    "options": [
+      "To invite more people to join RA",
+      "To show Christ through practical love and faithful witness",
+      "To do monthly parades",
+      "To share gospel books"
+    ],
+    "correctAnswer": "To show Christ through practical love and faithful witness"
+  },
+  {
+    "rank": "Envoy",
+    "question": "How can an Envoy ensure a mission activity is effective and God-honoring?",
+    "options": [
+      "By getting it completed fast",
+      "By asking for social media posts",
+      "By prayerful preparation and evaluating spiritual fruit",
+      "By copying past chapter reports"
+    ],
+    "correctAnswer": "By prayerful preparation and evaluating spiritual fruit"
+  },
+
+  {
+    "rank": "Envoy",
+    "question": "What is the best way for an Envoy to handle disagreement during mission planning?",
+    "options": [
+      "Insist on his idea",
+      "Withdraw from the task",
+      "Promote respectful dialogue and seek common understanding",
+      "Allow others to decide everything"
+    ],
+    "correctAnswer": "Promote respectful dialogue and seek common understanding"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What is the purpose of teaching junior RAs about biblical service?",
+    "options": [
+      "To help them rank faster",
+      "To prepare them for parades",
+      "To raise godly leaders by guiding them in truth and action",
+      "To reduce your own task"
+    ],
+    "correctAnswer": "To raise godly leaders by guiding them in truth and action"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What message does John 15:12 teach an Envoy about RA leadership?",
+    "options": [
+      "Serve quietly",
+      "Lead with kindness",
+      "Love one another as Christ has loved us",
+      "Do your duty without complaints"
+    ],
+    "correctAnswer": "Love one another as Christ has loved us"
+  },
+  {
+    "rank": "Envoy",
+    "question": "How can an Envoy help strengthen the spiritual growth of their RA chapter?",
+    "options": [
+      "Enforce punctuality strictly",
+      "Organize worship nights regularly",
+      "Encourage devotion, prayer, service, and lead by example",
+      "Lead games and competitions"
+    ],
+    "correctAnswer": "Encourage devotion, prayer, service, and lead by example"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Why must an Envoy model integrity both in RA and outside the church?",
+    "options": [
+      "To gain a leadership badge",
+      "To avoid embarrassment",
+      "To prove maturity to adults",
+      "To honor Christ through consistent character"
+    ],
+    "correctAnswer": "To honor Christ through consistent character"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What does Proverbs 27:17 teach that applies to mentorship at the Envoy level?",
+    "options": [
+      "Iron sharpens iron, so one person sharpens another",
+      "Follow the strongest leader",
+      "Be silent to grow wise",
+      "Avoid criticism at all costs"
+    ],
+    "correctAnswer": "Iron sharpens iron, so one person sharpens another"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Why is humility critical in RA service at the Envoy rank?",
+    "options": [
+      "It keeps you quiet during meetings",
+      "It helps you avoid errors",
+      "It aligns your service with Christ’s nature, not self-glory",
+      "It earns respect quickly"
+    ],
+    "correctAnswer": "It aligns your service with Christ’s nature, not self-glory"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Which Bible passage should inspire the courage to lead during difficulty?",
+    "options": [
+      "Joshua 1:9",
+      "Genesis 3:15",
+      "Psalm 100:2",
+      "Proverbs 4:1"
+    ],
+    "correctAnswer": "Joshua 1:9"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Why is it important to evaluate your mission outreach afterward?",
+    "options": [
+      "To report mistakes",
+      "To track attendance",
+      "To measure spiritual impact and areas of growth",
+      "To create data for promotions"
+    ],
+    "correctAnswer": "To measure spiritual impact and areas of growth"
+  },
+  {
+    "rank": "Envoy",
+    "question": "How can an Envoy respond biblically when teammates fail their responsibilities?",
+    "options": [
+      "Publicly correct them",
+      "Report them immediately",
+      "Show grace, restore unity, and offer help",
+      "Complete their tasks silently"
+    ],
+    "correctAnswer": "Show grace, restore unity, and offer help"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What is one mark of a mission-focused RA leader?",
+    "options": [
+      "Completes assignments quickly",
+      "Memorizes all pledges",
+      "Acts daily to make Christ known through love and service",
+      "Controls all team decisions"
+    ],
+    "correctAnswer": "Acts daily to make Christ known through love and service"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Why is it important to prepare spiritually before leading RA activities?",
+    "options": [
+      "To avoid mistakes",
+      "To be respected by others",
+      "To stay grounded in God’s strength and wisdom",
+      "To memorize the manual better"
+    ],
+    "correctAnswer": "To stay grounded in God’s strength and wisdom"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Which verse supports the idea of leading with a servant’s heart?",
+    "options": [
+      "Mark 10:45",
+      "Acts 2:38",
+      "Hebrews 4:12",
+      "Revelation 3:20"
+    ],
+    "correctAnswer": "Mark 10:45"
+  },
+  {
+    "rank": "Envoy",
+    "question": "How can an Envoy show leadership when others are unwilling to serve?",
+    "options": [
+      "Reassign the work",
+      "Step back and observe",
+      "Lead by action and invite others to follow",
+      "Complain to the counselor"
+    ],
+    "correctAnswer": "Lead by action and invite others to follow"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Why should an Envoy's leadership be guided by God's word?",
+    "options": [
+      "So he sounds spiritual",
+      "To gain biblical promotion",
+      "To ensure decisions reflect God’s will and truth",
+      "To fulfill RA requirements"
+    ],
+    "correctAnswer": "To ensure decisions reflect God’s will and truth"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Which of these best describes how an Envoy applies Matthew 5:14–16?",
+    "options": [
+      "He preaches every day",
+      "He becomes popular in school",
+      "He lets his life shine through good works to glorify God",
+      "He gives long speeches"
+    ],
+    "correctAnswer": "He lets his life shine through good works to glorify God"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Why does the RA Manual assign personal reflections in senior ranks?",
+    "options": [
+      "To test memory",
+      "To improve writing skill",
+      "To build spiritual awareness and intentional growth",
+      "To qualify for trophies"
+    ],
+    "correctAnswer": "To build spiritual awareness and intentional growth"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What is the key spiritual difference between helping and serving?",
+    "options": [
+      "Helping is easier",
+      "Serving imitates Christ’s sacrifice and humility",
+      "Helping is informal",
+      "Serving involves more materials"
+    ],
+    "correctAnswer": "Serving imitates Christ’s sacrifice and humility"
+  },
+  {
+    "rank": "Envoy",
+    "question": "When should an Envoy act as a mentor?",
+    "options": [
+      "Only when asked",
+      "Only during missions",
+      "Whenever possible, by guiding younger RAs in word and example",
+      "Only at official functions"
+    ],
+    "correctAnswer": "Whenever possible, by guiding younger RAs in word and example"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Which response shows a wrong motive for service?",
+    "options": [
+      "Volunteering for an outreach project",
+      "Helping because you love Christ",
+      "Participating to grow in faith",
+      "Serving to earn praise and attention"
+    ],
+    "correctAnswer": "Serving to earn praise and attention"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What is the role of prayer in RA leadership?",
+    "options": [
+      "To open every event",
+      "To maintain status",
+      "To seek God’s guidance and depend on Him in service",
+      "To fulfill rank requirements"
+    ],
+    "correctAnswer": "To seek God’s guidance and depend on Him in service"
+  },
+  {
+    "rank": "Envoy",
+    "question": "How should an Envoy respond to failure in an outreach plan?",
+    "options": [
+      "Blame others",
+      "Give up future leadership",
+      "Evaluate, learn, and plan better in prayer",
+      "Wait for new assignment"
+    ],
+    "correctAnswer": "Evaluate, learn, and plan better in prayer"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Why should an Envoy avoid being the center of attention in service?",
+    "options": [
+      "So others don't copy him",
+      "To reflect Christ and focus attention on God's glory, not self",
+      "Because it’s in the handbook",
+      "To stay humble in competitions"
+    ],
+    "correctAnswer": "To reflect Christ and focus attention on God's glory, not self"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What is one visible fruit of spiritual maturity in an RA Envoy?",
+    "options": [
+      "Quoting full chapters",
+      "Organizing events weekly",
+      "Exercising consistent love, patience, and self-control",
+      "Winning debates"
+    ],
+    "correctAnswer": "Exercising consistent love, patience, and self-control"
+  },
+
+
+
+  {
+    "rank": "Envoy",
+    "question": "Which action reflects a mature response to being overlooked during chapter recognition?",
+    "options": [
+      "Quit participation temporarily",
+      "Demand public acknowledgment",
+      "Continue serving with joy as unto the Lord",
+      "Request promotion through the counselor"
+    ],
+    "correctAnswer": "Continue serving with joy as unto the Lord"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Why should an Envoy avoid giving up when facing group failure?",
+    "options": [
+      "Because quitting delays promotion",
+      "To avoid correction from officers",
+      "Because God grows leaders through trials and faithfulness",
+      "To keep the chapter record clean"
+    ],
+    "correctAnswer": "Because God grows leaders through trials and faithfulness"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What does 1 Corinthians 10:31 teach that applies to all RA activities?",
+    "options": [
+      "Finish every task before sunset",
+      "Glorify God in all you do, even the smallest things",
+      "Correct each other regularly",
+      "Submit project reports often"
+    ],
+    "correctAnswer": "Glorify God in all you do, even the smallest things"
+  },
+  {
+    "rank": "Envoy",
+    "question": "How can an Envoy influence the RA chapter for Christ long-term?",
+    "options": [
+      "By creating exciting programs",
+      "By serving consistently and mentoring others in godliness",
+      "By memorizing more verses",
+      "By enforcing rules strictly"
+    ],
+    "correctAnswer": "By serving consistently and mentoring others in godliness"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Which is the most biblical way to lead a team as an Envoy?",
+    "options": [
+      "Make all decisions independently",
+      "Guide with truth, serve alongside, and seek unity",
+      "Assign roles without explanation",
+      "Take over difficult tasks quietly"
+    ],
+    "correctAnswer": "Guide with truth, serve alongside, and seek unity"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Why must an Envoy learn to write honest reports of his activities?",
+    "options": [
+      "To help counselors summarize events",
+      "To avoid writing penalties",
+      "To reflect spiritually, evaluate growth, and build accountability",
+      "To pass the RA writing exam"
+    ],
+    "correctAnswer": "To reflect spiritually, evaluate growth, and build accountability"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Which trait is most critical in a Senior RA leader like an Envoy?",
+    "options": [
+      "Loud communication",
+      "Ability to command younger members",
+      "Character, humility, and Christlike conduct",
+      "Attendance consistency"
+    ],
+    "correctAnswer": "Character, humility, and Christlike conduct"
+  },
+  {
+    "rank": "Envoy",
+    "question": "When RA mission activities seem unfruitful, what should guide an Envoy’s heart?",
+    "options": [
+      "Disappointment in the team",
+      "Faithfulness to God's call and unseen impact",
+      "Frustration with the church",
+      "Switching to another assignment"
+    ],
+    "correctAnswer": "Faithfulness to God's call and unseen impact"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What does Philippians 2:3 teach an RA Envoy about leading with others?",
+    "options": [
+      "Value others above yourself and act without selfish ambition",
+      "Always take charge to maintain order",
+      "Lead strongly to gain authority",
+      "Avoid working with slow learners"
+    ],
+    "correctAnswer": "Value others above yourself and act without selfish ambition"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What is a strong spiritual habit that sustains Envoys in mission service?",
+    "options": [
+      "Group rehearsals",
+      "Consistent fasting",
+      "Daily prayer, Scripture reflection, and quiet time",
+      "Competitive drills"
+    ],
+    "correctAnswer": "Daily prayer, Scripture reflection, and quiet time"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What message does Matthew 6:33 give to Envoys in terms of life priorities?",
+    "options": [
+      "Prepare for exams first",
+      "Seek school awards before service",
+      "Seek first the Kingdom of God and His righteousness",
+      "Lead only when available"
+    ],
+    "correctAnswer": "Seek first the Kingdom of God and His righteousness"
+  },
+  {
+    "rank": "Envoy",
+    "question": "How can an Envoy prepare spiritually for a major RA outreach?",
+    "options": [
+      "Review notes and coordinate uniforms",
+      "Ask counselors for ideas",
+      "Pray, fast if possible, study the Word, and align the team with Christ’s mission",
+      "Make a poster for publicity"
+    ],
+    "correctAnswer": "Pray, fast if possible, study the Word, and align the team with Christ’s mission"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Which of these reveals a heart of selfish leadership?",
+    "options": [
+      "Giving others opportunity to grow",
+      "Serving behind the scenes",
+      "Boasting about your efforts during meetings",
+      "Letting others lead sometimes"
+    ],
+    "correctAnswer": "Boasting about your efforts during meetings"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What role does encouragement play in a Senior RA leader's team?",
+    "options": [
+      "It reduces stress",
+      "It builds morale and reflects Christlike care",
+      "It keeps everyone quiet",
+      "It qualifies you for awards"
+    ],
+    "correctAnswer": "It builds morale and reflects Christlike care"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Which passage summarizes the essence of Christian leadership for an Envoy?",
+    "options": [
+      "Matthew 20:26 – Whoever wants to be great must be your servant",
+      "Psalm 119:11 – Hiding God’s Word in your heart",
+      "Luke 6:38 – Give and it will be given",
+      "1 Kings 3:9 – Give your servant wisdom"
+    ],
+    "correctAnswer": "Matthew 20:26 – Whoever wants to be great must be your servant"
+  },
+  {
+    "rank": "Envoy",
+    "question": "How can an Envoy avoid discouragement when his mission team fails to meet goals?",
+    "options": [
+      "Blame the juniors and start again alone",
+      "Pray, reflect, and rebuild with love and humility",
+      "Step away from further leadership",
+      "Delay all activities"
+    ],
+    "correctAnswer": "Pray, reflect, and rebuild with love and humility"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What’s the right response if someone wrongly accuses you during a project?",
+    "options": [
+      "Defend yourself in anger",
+      "Walk away from the team",
+      "Respond respectfully and trust God for vindication",
+      "Leave the project early"
+    ],
+    "correctAnswer": "Respond respectfully and trust God for vindication"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What character trait must guide an Envoy who mentors others?",
+    "options": [
+      "Competitiveness",
+      "Discipline alone",
+      "Gentleness and consistent example",
+      "Strict control"
+    ],
+    "correctAnswer": "Gentleness and consistent example"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What shows that an RA Envoy is ready to move into higher leadership?",
+    "options": [
+      "He completes every task quickly",
+      "He wins all competitions",
+      "He leads others with spiritual maturity and selfless love",
+      "He quotes the most Bible verses"
+    ],
+    "correctAnswer": "He leads others with spiritual maturity and selfless love"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What is the most important legacy an Envoy can leave behind in his chapter?",
+    "options": [
+      "Organizing the most events",
+      "Being known by other churches",
+      "A life that pointed others to Christ through love, faith, and humble leadership",
+      "Serving in the most parades"
+    ],
+    "correctAnswer": "A life that pointed others to Christ through love, faith, and humble leadership"
+  },
+
+
+  {
+    "rank": "Envoy",
+    "question": "Which spiritual principle should guide an Envoy when facing personal conflict in leadership?",
+    "options": [
+      "Use silence to avoid confrontation",
+      "Let counselors decide every issue",
+      "Forgive as Christ forgave and seek peace",
+      "Wait for public apology"
+    ],
+    "correctAnswer": "Forgive as Christ forgave and seek peace"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What is the danger of leading only when watched by others?",
+    "options": [
+      "It delays promotions",
+      "It weakens public speaking skills",
+      "It shows pride and lack of true servant leadership",
+      "It causes misunderstanding"
+    ],
+    "correctAnswer": "It shows pride and lack of true servant leadership"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Why should RA Envoys be intentional about training those behind them?",
+    "options": [
+      "To lighten their own duties",
+      "To prepare for exit from RA",
+      "To raise faithful, Christlike leaders for the future",
+      "To build a competition team"
+    ],
+    "correctAnswer": "To raise faithful, Christlike leaders for the future"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What biblical virtue helps an Envoy handle correction humbly?",
+    "options": [
+      "Wisdom",
+      "Patience",
+      "Humility and teachability",
+      "Silence"
+    ],
+    "correctAnswer": "Humility and teachability"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What should an Envoy do if he feels spiritually dry before a leadership task?",
+    "options": [
+      "Postpone the activity",
+      "Perform outwardly but hide inward struggle",
+      "Seek God in prayer and renewal through Scripture",
+      "Talk to juniors instead"
+    ],
+    "correctAnswer": "Seek God in prayer and renewal through Scripture"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What role does listening play in biblical leadership at the Envoy level?",
+    "options": [
+      "It helps keep meetings short",
+      "It shows agreement with everyone",
+      "It builds trust, understanding, and promotes wise decisions",
+      "It avoids confrontation"
+    ],
+    "correctAnswer": "It builds trust, understanding, and promotes wise decisions"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Which of these attitudes most disqualifies an Envoy from effective mission leadership?",
+    "options": [
+      "Passion for outreach",
+      "Dependence on team prayer",
+      "Desire for applause and public praise",
+      "Clear communication"
+    ],
+    "correctAnswer": "Desire for applause and public praise"
+  },
+  {
+    "rank": "Envoy",
+    "question": "How should an Envoy approach service when team morale is low?",
+    "options": [
+      "Wait until others are excited",
+      "Assign new leaders",
+      "Speak life, encourage, pray, and serve joyfully",
+      "Report them to chapter officers"
+    ],
+    "correctAnswer": "Speak life, encourage, pray, and serve joyfully"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Why is prayer before service crucial for RA leaders?",
+    "options": [
+      "It opens meetings formally",
+      "It helps avoid errors",
+      "It aligns the leader’s heart with God’s will and invites His presence",
+      "It checks off the RA list"
+    ],
+    "correctAnswer": "It aligns the leader’s heart with God’s will and invites His presence"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What is the main reason an Envoy should document completed outreach activities?",
+    "options": [
+      "To prove involvement to counselors",
+      "To earn promotion credit",
+      "To reflect spiritually and build intentional memory of God’s work",
+      "To compare with other teams"
+    ],
+    "correctAnswer": "To reflect spiritually and build intentional memory of God’s work"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What does it mean to 'multiply yourself' as an Envoy?",
+    "options": [
+      "Train others to copy your skills exactly",
+      "Build more RA branches",
+      "Raise others who lead with humility, service, and Christlike character",
+      "Assign others your personal duties"
+    ],
+    "correctAnswer": "Raise others who lead with humility, service, and Christlike character"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What makes teamwork among RAs reflect the body of Christ?",
+    "options": [
+      "Different levels working separately",
+      "One leader giving all orders",
+      "Many members using different gifts in unity for God’s purpose",
+      "Strict following of officer ranks"
+    ],
+    "correctAnswer": "Many members using different gifts in unity for God’s purpose"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What does Galatians 5:22–23 remind an Envoy to cultivate during leadership?",
+    "options": [
+      "Rules and traditions",
+      "Boldness and speed",
+      "Fruit of the Spirit: love, joy, peace, patience, and more",
+      "Names of RA founders"
+    ],
+    "correctAnswer": "Fruit of the Spirit: love, joy, peace, patience, and more"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Why is delegation a spiritual responsibility in group service?",
+    "options": [
+      "To finish faster",
+      "To avoid personal pressure",
+      "To involve others, share responsibility, and help them grow",
+      "To meet the RA quota"
+    ],
+    "correctAnswer": "To involve others, share responsibility, and help them grow"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What shows that an Envoy truly understands Christ's mission?",
+    "options": [
+      "Willingness to preach to large crowds",
+      "Correcting others during drills",
+      "A daily life that reflects love, mercy, and obedience to Christ's command",
+      "Reciting the Great Commission word for word"
+    ],
+    "correctAnswer": "A daily life that reflects love, mercy, and obedience to Christ's command"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What should an Envoy do if someone in the group spreads negativity?",
+    "options": [
+      "Report them immediately",
+      "Challenge them directly",
+      "Pray for them, respond in love, and try to restore unity",
+      "Ignore and avoid them"
+    ],
+    "correctAnswer": "Pray for them, respond in love, and try to restore unity"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Which response best fits the RA Motto when facing temptation?",
+    "options": [
+      "I will wait for my counselor’s advice",
+      "I will pretend not to see it",
+      "I will resist it and act as Christ would",
+      "I will avoid people who sin"
+    ],
+    "correctAnswer": "I will resist it and act as Christ would"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What is one way an Envoy models biblical strength?",
+    "options": [
+      "By being the loudest speaker",
+      "By demanding obedience",
+      "By submitting to God, serving others, and doing right in weakness",
+      "By enforcing order constantly"
+    ],
+    "correctAnswer": "By submitting to God, serving others, and doing right in weakness"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Which verse should encourage an Envoy to serve even when tired or discouraged?",
+    "options": [
+      "2 Timothy 4:7",
+      "Romans 8:1",
+      "Psalm 119:9",
+      "Mark 1:35"
+    ],
+    "correctAnswer": "2 Timothy 4:7"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What is the most lasting impact an Envoy can make in RA?",
+    "options": [
+      "Organizing major competitions",
+      "Winning chapter debates",
+      "Discipling others to love and serve God for life",
+      "Completing all ranks quickly"
+    ],
+    "correctAnswer": "Discipling others to love and serve God for life"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Why is Christ’s washing of His disciples’ feet important to an RA Envoy?",
+    "options": [
+      "It shows RA uniformity",
+      "It was part of Passover tradition",
+      "It models servant leadership regardless of status",
+      "It reminds us to wear sandals"
+    ],
+    "correctAnswer": "It models servant leadership regardless of status"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What lesson can an Envoy learn from Nehemiah’s leadership?",
+    "options": [
+      "Avoid distractions during planning",
+      "Work quietly and take control",
+      "Lead with prayer, perseverance, and clear vision",
+      "Follow every RA law"
+    ],
+    "correctAnswer": "Lead with prayer, perseverance, and clear vision"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Why should an Envoy never look down on juniors who struggle?",
+    "options": [
+      "It may affect the group name",
+      "He was once in their shoes",
+      "They could become future leaders through love and guidance",
+      "It causes conflict with counselors"
+    ],
+    "correctAnswer": "They could become future leaders through love and guidance"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Which phrase best summarizes a godly Envoy’s leadership goal?",
+    "options": [
+      "To reach the top of RA",
+      "To gain attention in church",
+      "To serve Christ by building others in truth, love, and mission",
+      "To run meetings efficiently"
+    ],
+    "correctAnswer": "To serve Christ by building others in truth, love, and mission"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Which best explains why RA requires written reflections at higher ranks?",
+    "options": [
+      "To test writing skill",
+      "To allow review by supervisors",
+      "To help members think deeply about what God taught them through service",
+      "To fill up the manual"
+    ],
+    "correctAnswer": "To help members think deeply about what God taught them through service"
+  },
+
+
+
+  {
+    "rank": "Envoy",
+    "question": "How can an Envoy reflect God's love during conflict in a planning team?",
+    "options": [
+      "Let others win to keep peace",
+      "Speak truth gently, listen actively, and forgive quickly",
+      "Step away and remain silent",
+      "Wait for the counselor to resolve it"
+    ],
+    "correctAnswer": "Speak truth gently, listen actively, and forgive quickly"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What does it mean for an Envoy to serve with excellence?",
+    "options": [
+      "Be the most talented in every area",
+      "Do your best with a pure heart, seeking to glorify God",
+      "Seek rewards and attention",
+      "Compare yourself to other leaders"
+    ],
+    "correctAnswer": "Do your best with a pure heart, seeking to glorify God"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Why is it important for an Envoy to understand the spiritual needs of his team?",
+    "options": [
+      "To manage conflicts better",
+      "To prepare sermons",
+      "To lead them in prayer, growth, and encouragement",
+      "To report spiritual weaknesses"
+    ],
+    "correctAnswer": "To lead them in prayer, growth, and encouragement"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Which of these behaviors reflects Christlike leadership in RA?",
+    "options": [
+      "Leading by force",
+      "Serving quietly with love and discipline",
+      "Demanding total obedience",
+      "Avoiding mistakes at all costs"
+    ],
+    "correctAnswer": "Serving quietly with love and discipline"
+  },
+  {
+    "rank": "Envoy",
+    "question": "How does Isaiah 6:8 relate to the RA Envoy's calling?",
+    "options": [
+      "It reminds us to be present at church",
+      "It calls us to respond willingly to God's mission",
+      "It helps memorize the prophets",
+      "It teaches public speaking"
+    ],
+    "correctAnswer": "It calls us to respond willingly to God's mission"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What should an Envoy do if he notices favoritism during assignments?",
+    "options": [
+      "Keep silent",
+      "Complain openly",
+      "Handle it in prayer, and suggest fair improvements with humility",
+      "Lead rebellion"
+    ],
+    "correctAnswer": "Handle it in prayer, and suggest fair improvements with humility"
+  },
+  {
+    "rank": "Envoy",
+    "question": "How should an Envoy respond when a team project fails publicly?",
+    "options": [
+      "Defend himself",
+      "Blame the juniors",
+      "Take responsibility as a leader and seek growth",
+      "Avoid future team efforts"
+    ],
+    "correctAnswer": "Take responsibility as a leader and seek growth"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What is one way Envoys can help the RA chapter grow spiritually?",
+    "options": [
+      "Organize fun games",
+      "Increase attendance",
+      "Model Christlike love and create opportunities for service",
+      "Recite the manual"
+    ],
+    "correctAnswer": "Model Christlike love and create opportunities for service"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Which of these is a mark of servant leadership?",
+    "options": [
+      "Delegating all duties",
+      "Standing out in every role",
+      "Leading by loving others and lifting them up",
+      "Doing the most visible tasks"
+    ],
+    "correctAnswer": "Leading by loving others and lifting them up"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What role does Scripture memory play in the Envoy’s leadership?",
+    "options": [
+      "To compete in quizzes",
+      "To impress younger members",
+      "To guide decisions and actions by God’s truth",
+      "To fulfill manual requirements"
+    ],
+    "correctAnswer": "To guide decisions and actions by God’s truth"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Why should an Envoy not force his leadership ideas on others?",
+    "options": [
+      "It may slow down plans",
+      "It leads to confusion",
+      "It ignores teamwork, trust, and shared growth",
+      "It violates RA rules"
+    ],
+    "correctAnswer": "It ignores teamwork, trust, and shared growth"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Which of the following reflects a false motive for service?",
+    "options": [
+      "Desire to glorify God",
+      "Obedience to Christ",
+      "Pressure to appear important",
+      "Love for others"
+    ],
+    "correctAnswer": "Pressure to appear important"
+  },
+  {
+    "rank": "Envoy",
+    "question": "How should an Envoy respond when others take credit for his efforts?",
+    "options": [
+      "Protest in public",
+      "Let it go and trust God for reward",
+      "Demand recognition",
+      "Stop serving next time"
+    ],
+    "correctAnswer": "Let it go and trust God for reward"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Which of the following best reflects Philippians 2:4 in RA leadership?",
+    "options": [
+      "Help only when needed",
+      "Look not only to your own interests, but also to the interests of others",
+      "Serve your friends first",
+      "Be faster than others"
+    ],
+    "correctAnswer": "Look not only to your own interests, but also to the interests of others"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What is a wrong way to motivate juniors in RA service?",
+    "options": [
+      "Set the right example",
+      "Encourage them with Scripture",
+      "Shout at them when they are slow",
+      "Pray with them"
+    ],
+    "correctAnswer": "Shout at them when they are slow"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What lesson should an Envoy learn from Jesus washing the disciples' feet?",
+    "options": [
+      "Leaders should act quickly",
+      "Leaders must be seen often",
+      "True leaders serve with humility",
+      "Service must be routine"
+    ],
+    "correctAnswer": "True leaders serve with humility"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Why does RA include both service and study in its ranks?",
+    "options": [
+      "To fill up time",
+      "To test memory and teamwork",
+      "To develop balanced followers of Christ in word and action",
+      "To make competition harder"
+    ],
+    "correctAnswer": "To develop balanced followers of Christ in word and action"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Which action shows biblical leadership under pressure?",
+    "options": [
+      "Quitting when criticized",
+      "Praying and pressing on in humility and truth",
+      "Blaming your teammates",
+      "Withdrawing quietly"
+    ],
+    "correctAnswer": "Praying and pressing on in humility and truth"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What best prepares an Envoy for future RA leadership?",
+    "options": [
+      "Winning all debates",
+      "Knowing all memory verses",
+      "Serving consistently with humility and guiding others spiritually",
+      "Reporting errors quickly"
+    ],
+    "correctAnswer": "Serving consistently with humility and guiding others spiritually"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Which biblical value must an Envoy protect in team leadership?",
+    "options": [
+      "Reputation",
+      "Flexibility",
+      "Unity and love",
+      "Event coordination"
+    ],
+    "correctAnswer": "Unity and love"
+  },
+  {
+    "rank": "Envoy",
+    "question": "How can an Envoy disciple a younger RA member?",
+    "options": [
+      "Assign tasks weekly",
+      "Give them materials only",
+      "Walk with them in prayer, Word, and personal guidance",
+      "Speak only during devotions"
+    ],
+    "correctAnswer": "Walk with them in prayer, Word, and personal guidance"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What proves an Envoy understands servant leadership?",
+    "options": [
+      "He becomes parade leader",
+      "He is always visible at events",
+      "He supports others quietly and leads with compassion",
+      "He has many ideas"
+    ],
+    "correctAnswer": "He supports others quietly and leads with compassion"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Why is reflection important after an outreach program?",
+    "options": [
+      "To identify the team MVP",
+      "To write a report summary",
+      "To measure spiritual growth and future improvement",
+      "To avoid mistakes again"
+    ],
+    "correctAnswer": "To measure spiritual growth and future improvement"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What mindset must an Envoy adopt for faithful RA service?",
+    "options": [
+      "Serve until noticed",
+      "Let others do more",
+      "Serve Christ with excellence whether seen or not",
+      "Compete quietly"
+    ],
+    "correctAnswer": "Serve Christ with excellence whether seen or not"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What is the biblical reason for teamwork in RA service?",
+    "options": [
+      "To cover weaknesses",
+      "To finish projects quickly",
+      "Because we are one body in Christ with different gifts",
+      "To include everyone"
+    ],
+    "correctAnswer": "Because we are one body in Christ with different gifts"
+  },
+
+
+
+  {
+    "rank": "Envoy",
+    "question": "What principle from Romans 12:10 should guide an Envoy’s interaction with teammates?",
+    "options": [
+      "Be quick to respond",
+      "Honor one another above yourselves",
+      "Always lead from the front",
+      "Correct others immediately"
+    ],
+    "correctAnswer": "Honor one another above yourselves"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What does it mean for an Envoy to finish a task 'as unto the Lord'?",
+    "options": [
+      "To complete it fast",
+      "To impress the counselors",
+      "To do it with excellence and integrity to glorify God",
+      "To get the best score"
+    ],
+    "correctAnswer": "To do it with excellence and integrity to glorify God"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Which character trait must an Envoy show when others refuse to cooperate?",
+    "options": [
+      "Control",
+      "Joy",
+      "Patience and spiritual leadership",
+      "Frustration"
+    ],
+    "correctAnswer": "Patience and spiritual leadership"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Why should an Envoy include others in decision-making during planning?",
+    "options": [
+      "To reduce personal stress",
+      "To fulfill RA guidelines",
+      "To build trust and reflect team unity under Christ",
+      "To avoid complaints"
+    ],
+    "correctAnswer": "To build trust and reflect team unity under Christ"
+  },
+  {
+    "rank": "Envoy",
+    "question": "How can an Envoy show he is led by the Spirit during service?",
+    "options": [
+      "By being firm and silent",
+      "By being cheerful always",
+      "By displaying love, gentleness, and humility in leadership",
+      "By correcting all errors"
+    ],
+    "correctAnswer": "By displaying love, gentleness, and humility in leadership"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What does Jesus teach about leadership in Luke 22:26?",
+    "options": [
+      "The leader must be the strongest",
+      "The greatest should be like the youngest, and the leader like one who serves",
+      "The leader must know the law",
+      "The leader must always speak last"
+    ],
+    "correctAnswer": "The greatest should be like the youngest, and the leader like one who serves"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What should guide an Envoy's actions when no one is watching?",
+    "options": [
+      "Chapter expectations",
+      "Pride in leadership",
+      "Personal discipline and love for God",
+      "Habit from training"
+    ],
+    "correctAnswer": "Personal discipline and love for God"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What is the value of involving juniors in RA mission planning?",
+    "options": [
+      "To complete the work faster",
+      "To give them leadership badges",
+      "To develop future leaders and teach responsibility",
+      "To fill up meeting time"
+    ],
+    "correctAnswer": "To develop future leaders and teach responsibility"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What is a spiritually mature way to handle team failure?",
+    "options": [
+      "Step back and reflect silently",
+      "Accept it, seek God, learn, and adjust",
+      "Avoid leading next time",
+      "Assign blame in your report"
+    ],
+    "correctAnswer": "Accept it, seek God, learn, and adjust"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Which verse calls us to do everything in love — a key guide for Envoy service?",
+    "options": [
+      "1 Corinthians 16:14",
+      "Psalm 34:1",
+      "John 10:10",
+      "Matthew 7:7"
+    ],
+    "correctAnswer": "1 Corinthians 16:14"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Why should an Envoy avoid judging those who serve differently?",
+    "options": [
+      "They may be promoted",
+      "Judgment is for senior leaders only",
+      "God uses different gifts and styles for His glory",
+      "It creates division in camp"
+    ],
+    "correctAnswer": "God uses different gifts and styles for His glory"
+  },
+  {
+    "rank": "Envoy",
+    "question": "How should a Christ-centered Envoy respond to criticism?",
+    "options": [
+      "Defend himself boldly",
+      "Avoid future involvement",
+      "Listen, pray, and learn from what is true",
+      "Correct the critic"
+    ],
+    "correctAnswer": "Listen, pray, and learn from what is true"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What is one clear sign of spiritual pride in RA service?",
+    "options": [
+      "Asking questions in meetings",
+      "Taking initiative often",
+      "Believing your way is always best and ignoring others",
+      "Volunteering for leadership"
+    ],
+    "correctAnswer": "Believing your way is always best and ignoring others"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What does Colossians 4:6 teach that applies to an Envoy's speech?",
+    "options": [
+      "Talk less in public",
+      "Speak only to your team",
+      "Let your words be full of grace, seasoned with salt",
+      "Avoid correction of others"
+    ],
+    "correctAnswer": "Let your words be full of grace, seasoned with salt"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What kind of leadership honors God most in RA?",
+    "options": [
+      "One based on intelligence",
+      "One based on memorized rules",
+      "One rooted in faith, love, humility, and obedience",
+      "One based on tradition"
+    ],
+    "correctAnswer": "One rooted in faith, love, humility, and obedience"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Which of the following should be your greatest motivation as an Envoy?",
+    "options": [
+      "Winning competitions",
+      "Being elected as chapter leader",
+      "Pleasing Christ and pointing others to Him",
+      "Being praised by pastors"
+    ],
+    "correctAnswer": "Pleasing Christ and pointing others to Him"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What should an Envoy do if he feels unqualified to lead a task?",
+    "options": [
+      "Refuse and stay silent",
+      "Ask to be replaced",
+      "Seek counsel, pray for strength, and try faithfully",
+      "Pass the duty to juniors"
+    ],
+    "correctAnswer": "Seek counsel, pray for strength, and try faithfully"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What is one danger of leadership without spiritual reflection?",
+    "options": [
+      "You may forget key verses",
+      "You may fail memory tests",
+      "You lead with pride instead of purpose",
+      "You may lose team members"
+    ],
+    "correctAnswer": "You lead with pride instead of purpose"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Why is it important for an Envoy to be accountable in all assignments?",
+    "options": [
+      "To avoid negative reports",
+      "To model responsibility and glorify God in all things",
+      "To qualify for next rank",
+      "To please chapter officers"
+    ],
+    "correctAnswer": "To model responsibility and glorify God in all things"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What does Ephesians 2:10 reveal about our role in mission and service?",
+    "options": [
+      "We should always evangelize",
+      "We were created in Christ for good works He prepared in advance",
+      "We must complete our ranks first",
+      "We should work alone often"
+    ],
+    "correctAnswer": "We were created in Christ for good works He prepared in advance"
+  },
+  {
+    "rank": "Envoy",
+    "question": "How should an Envoy treat juniors who don’t yet understand leadership?",
+    "options": [
+      "Speak to the counselor",
+      "Avoid involving them",
+      "Guide them patiently, model maturity, and correct with love",
+      "Lead quietly without them"
+    ],
+    "correctAnswer": "Guide them patiently, model maturity, and correct with love"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Which of these demonstrates excellence in RA leadership?",
+    "options": [
+      "Planning events fast",
+      "Quoting the most verses",
+      "Serving with diligence, love, consistency, and reflection",
+      "Competing with other chapters"
+    ],
+    "correctAnswer": "Serving with diligence, love, consistency, and reflection"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Why is teamwork a biblical model for RA service?",
+    "options": [
+      "It reduces personal stress",
+      "It improves time usage",
+      "It mirrors how the early Church served together in unity and love",
+      "It creates more leaders"
+    ],
+    "correctAnswer": "It mirrors how the early Church served together in unity and love"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What shows that an Envoy truly sees RA service as mission work?",
+    "options": [
+      "He travels often",
+      "He speaks frequently at events",
+      "He shares Christ through actions, decisions, and daily witness",
+      "He completes ranks quickly"
+    ],
+    "correctAnswer": "He shares Christ through actions, decisions, and daily witness"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Which action best reflects Philippians 2:14 in service?",
+    "options": [
+      "Leading boldly and quickly",
+      "Doing all things without complaining or arguing",
+      "Letting juniors do difficult work",
+      "Taking full control always"
+    ],
+    "correctAnswer": "Doing all things without complaining or arguing"
+  },
+
+
+  {
+    "rank": "Envoy",
+    "question": "What should guide an Envoy’s leadership style according to the example of Jesus?",
+    "options": [
+      "Strictness and formality",
+      "Power and command",
+      "Humility, sacrifice, and love",
+      "Visibility and control"
+    ],
+    "correctAnswer": "Humility, sacrifice, and love"
+  },
+  {
+    "rank": "Envoy",
+    "question": "How should an Envoy measure the success of an outreach mission?",
+    "options": [
+      "By how many people attended",
+      "By the praise received afterward",
+      "By the spiritual impact and faithfulness to God's purpose",
+      "By how much was spent"
+    ],
+    "correctAnswer": "By the spiritual impact and faithfulness to God's purpose"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What should be the foundation of all an Envoy's decisions in leadership?",
+    "options": [
+      "Advice from seniors",
+      "Counselor expectations",
+      "God’s Word and prayer",
+      "Experience in past projects"
+    ],
+    "correctAnswer": "God’s Word and prayer"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Why is it dangerous for an Envoy to compare his leadership to others constantly?",
+    "options": [
+      "It reduces team loyalty",
+      "It may lead to pride or insecurity rather than growth in Christ",
+      "It causes delay",
+      "It prevents memory work"
+    ],
+    "correctAnswer": "It may lead to pride or insecurity rather than growth in Christ"
+  },
+  {
+    "rank": "Envoy",
+    "question": "How can an Envoy support team members who feel discouraged?",
+    "options": [
+      "Tell them to keep quiet",
+      "Ignore and let them learn",
+      "Encourage with Scripture and remind them of their purpose in Christ",
+      "Replace them immediately"
+    ],
+    "correctAnswer": "Encourage with Scripture and remind them of their purpose in Christ"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Why is consistent service important even in small roles?",
+    "options": [
+      "It builds rank credit",
+      "It shows discipline to leaders",
+      "It trains the heart to serve with joy and faithfulness in all things",
+      "It fills activity records"
+    ],
+    "correctAnswer": "It trains the heart to serve with joy and faithfulness in all things"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Which quality best reflects a spiritually strong Envoy?",
+    "options": [
+      "Confidence in command",
+      "Perfect uniform",
+      "Faithfulness in private service and public humility",
+      "Quick project delivery"
+    ],
+    "correctAnswer": "Faithfulness in private service and public humility"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Why should Envoys mentor upcoming RAs personally?",
+    "options": [
+      "To share experience",
+      "To prepare successors",
+      "To fulfill manual tasks",
+      "To reproduce servant leaders like Christ modeled"
+    ],
+    "correctAnswer": "To reproduce servant leaders like Christ modeled"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What kind of report shows spiritual maturity in an Envoy?",
+    "options": [
+      "Long and formal",
+      "Strictly factual",
+      "Reflective, honest, and focused on lessons and God’s work",
+      "Filled with achievements"
+    ],
+    "correctAnswer": "Reflective, honest, and focused on lessons and God’s work"
+  },
+  {
+    "rank": "Envoy",
+    "question": "How should an Envoy respond when others choose not to help?",
+    "options": [
+      "Rebuke them publicly",
+      "Serve anyway as Christ did, and invite them patiently",
+      "Take over silently",
+      "Report them in meetings"
+    ],
+    "correctAnswer": "Serve anyway as Christ did, and invite them patiently"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Why does the RA Manual emphasize mission at every rank level?",
+    "options": [
+      "To train better speakers",
+      "To fulfill national programs",
+      "Because every believer, including youth, is called to share God’s love",
+      "To make the chapter known"
+    ],
+    "correctAnswer": "Because every believer, including youth, is called to share God’s love"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What is a danger of leading without personal devotion?",
+    "options": [
+      "Poor project delivery",
+      "Limited creativity",
+      "Lack of spiritual power and godly perspective",
+      "Weak competition scores"
+    ],
+    "correctAnswer": "Lack of spiritual power and godly perspective"
+  },
+  {
+    "rank": "Envoy",
+    "question": "How should an Envoy handle moments of leadership fear or pressure?",
+    "options": [
+      "Step back quickly",
+      "Let others lead instead",
+      "Pray, ask God for strength, and act with courage and love",
+      "Rush through the task"
+    ],
+    "correctAnswer": "Pray, ask God for strength, and act with courage and love"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What value does teamwork add to the mission of RA?",
+    "options": [
+      "Faster results",
+      "Increased attendance",
+      "Unity that reflects the body of Christ working as one",
+      "Shared blame"
+    ],
+    "correctAnswer": "Unity that reflects the body of Christ working as one"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Which passage reminds Envoys to consider others better than themselves?",
+    "options": [
+      "Matthew 28:19",
+      "Philippians 2:3",
+      "James 1:5",
+      "Proverbs 3:6"
+    ],
+    "correctAnswer": "Philippians 2:3"
+  },
+  {
+    "rank": "Envoy",
+    "question": "How can an Envoy help sustain unity during group planning?",
+    "options": [
+      "Take charge fully",
+      "Avoid arguments and move quickly",
+      "Create space for input and resolve conflicts with love",
+      "Reduce participation"
+    ],
+    "correctAnswer": "Create space for input and resolve conflicts with love"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Why is honesty in reports and reflections important for Envoys?",
+    "options": [
+      "To avoid correction",
+      "So records are complete",
+      "Because God values truth and inner growth over appearances",
+      "It boosts chances for recognition"
+    ],
+    "correctAnswer": "Because God values truth and inner growth over appearances"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What does 1 Thessalonians 5:11 encourage Envoys to do?",
+    "options": [
+      "Rebuke the weak",
+      "Work harder alone",
+      "Encourage one another and build each other up",
+      "Serve in silence"
+    ],
+    "correctAnswer": "Encourage one another and build each other up"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Which best shows that an Envoy has internalized RA's purpose?",
+    "options": [
+      "He reaches Dean rank fast",
+      "He speaks at every event",
+      "He lives to glorify God by serving, witnessing, and discipling others",
+      "He performs well in drills"
+    ],
+    "correctAnswer": "He lives to glorify God by serving, witnessing, and discipling others"
+  },
+  {
+    "rank": "Envoy",
+    "question": "When should an Envoy step back from leadership roles?",
+    "options": [
+      "When feeling bored",
+      "When not being praised",
+      "When God calls him to let others grow or after spiritual rest",
+      "When juniors complain"
+    ],
+    "correctAnswer": "When God calls him to let others grow or after spiritual rest"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Which example reveals a servant heart?",
+    "options": [
+      "Waiting to be told what to do",
+      "Volunteering quietly for a behind-the-scenes task",
+      "Organizing meetings only",
+      "Correcting everyone in the group"
+    ],
+    "correctAnswer": "Volunteering quietly for a behind-the-scenes task"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Why must an Envoy be careful not to serve only for attention?",
+    "options": [
+      "It affects public opinion",
+      "It can delay rank approval",
+      "It dishonors God and builds pride instead of Christlikeness",
+      "It reduces joy"
+    ],
+    "correctAnswer": "It dishonors God and builds pride instead of Christlikeness"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What is the best way to leave a legacy as an RA Envoy?",
+    "options": [
+      "Teach RA chants well",
+      "Lead most meetings",
+      "Raise faithful leaders by example, love, and mentoring",
+      "Win chapter awards"
+    ],
+    "correctAnswer": "Raise faithful leaders by example, love, and mentoring"
+  },
+  {
+    "rank": "Envoy",
+    "question": "Which RA action shows submission to God's mission?",
+    "options": [
+      "Learning all ranks fast",
+      "Attending all drills",
+      "Obeying the Great Commission in love, word, and sacrifice",
+      "Studying chapter history"
+    ],
+    "correctAnswer": "Obeying the Great Commission in love, word, and sacrifice"
+  },
+  {
+    "rank": "Envoy",
+    "question": "What does it mean to lead like Christ in RA?",
+    "options": [
+      "Lead by rules and titles",
+      "Serve with humility, speak truth, and point others to God",
+      "Organize more programs",
+      "Lead devotions alone"
+    ],
+    "correctAnswer": "Serve with humility, speak truth, and point others to God"
+  },
+
+
+  {
+    "rank": "Special Envoy",
+    "question": "What is the defining difference between an Envoy and a Special Envoy in the RA structure?",
+    "options": [
+      "More uniforms required",
+      "Greater biblical knowledge",
+      "Deeper spiritual leadership and personal initiative in mission work",
+      "Longer memorization tasks"
+    ],
+    "correctAnswer": "Deeper spiritual leadership and personal initiative in mission work"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "According to 2 Timothy 2:15, how should a Special Envoy handle the Word of truth?",
+    "options": [
+      "Quote it often",
+      "Study to show yourself approved, correctly handling the Word",
+      "Use it to correct juniors only",
+      "Read it once a week"
+    ],
+    "correctAnswer": "Study to show yourself approved, correctly handling the Word"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What is one key reason the RA Manual includes deeper memory work at the Special Envoy level?",
+    "options": [
+      "To test advanced IQ",
+      "To prepare members for quizzes",
+      "To root Scripture in the heart for serious leadership impact",
+      "To meet officer promotion criteria"
+    ],
+    "correctAnswer": "To root Scripture in the heart for serious leadership impact"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "Which best reflects the Special Envoy's approach to service?",
+    "options": [
+      "Leadership by command",
+      "Independent task completion",
+      "Modeling Christ in humility, decision-making, and mentoring",
+      "Overseeing junior ranks"
+    ],
+    "correctAnswer": "Modeling Christ in humility, decision-making, and mentoring"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "Why is spiritual self-discipline essential for Special Envoys?",
+    "options": [
+      "To avoid public embarrassment",
+      "To maintain spiritual respect",
+      "Because higher ranks demand greater accountability to God",
+      "Because counselors expect perfection"
+    ],
+    "correctAnswer": "Because higher ranks demand greater accountability to God"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What is the Special Envoy’s responsibility in mentoring others?",
+    "options": [
+      "Instruct them weekly",
+      "Point them to manuals",
+      "Walk with them through Scripture, prayer, and servant example",
+      "Give them junior tasks"
+    ],
+    "correctAnswer": "Walk with them through Scripture, prayer, and servant example"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "Which leadership trait is most critical for a Special Envoy when making decisions?",
+    "options": [
+      "Speed",
+      "Boldness",
+      "Spiritual wisdom and Christlike love",
+      "Public influence"
+    ],
+    "correctAnswer": "Spiritual wisdom and Christlike love"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What does James 3:1 imply about leadership responsibilities for a Special Envoy?",
+    "options": [
+      "They must speak confidently",
+      "They will be judged more strictly and must lead with care",
+      "They must memorize Scripture fast",
+      "They must attend all drills"
+    ],
+    "correctAnswer": "They will be judged more strictly and must lead with care"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What mindset should a Special Envoy carry into each RA assignment?",
+    "options": [
+      "Complete it perfectly",
+      "Lead from the front",
+      "Serve with humility, honor God, and grow others",
+      "Ensure juniors follow rules"
+    ],
+    "correctAnswer": "Serve with humility, honor God, and grow others"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "How does Ephesians 4:11–12 relate to the Special Envoy's mission?",
+    "options": [
+      "They must speak in church",
+      "They are called to equip others for works of service",
+      "They should recite memory work often",
+      "They must read more theology"
+    ],
+    "correctAnswer": "They are called to equip others for works of service"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What role does consistent personal devotion play in Special Envoy leadership?",
+    "options": [
+      "It makes them appear spiritual",
+      "It provides talking points for devotions",
+      "It roots leadership in obedience, growth, and discernment",
+      "It earns spiritual awards"
+    ],
+    "correctAnswer": "It roots leadership in obedience, growth, and discernment"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "How should a Special Envoy evaluate the effectiveness of a mission project?",
+    "options": [
+      "Based on project size",
+      "Based on audience applause",
+      "Based on faithfulness, growth, and spiritual fruit",
+      "Based on how quickly it ended"
+    ],
+    "correctAnswer": "Based on faithfulness, growth, and spiritual fruit"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What lesson does Jesus' servant leadership in John 13 give to Special Envoys?",
+    "options": [
+      "Delegate to juniors",
+      "Serve from the heart even when you’re the leader",
+      "Correct with power",
+      "Teach only with words"
+    ],
+    "correctAnswer": "Serve from the heart even when you’re the leader"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "Which of these is a danger for high-ranking leaders like Special Envoys?",
+    "options": [
+      "Fear of speaking",
+      "Spiritual pride and loss of servant focus",
+      "Being too quiet",
+      "Familiarity with younger members"
+    ],
+    "correctAnswer": "Spiritual pride and loss of servant focus"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What does Matthew 20:26 teach that applies strongly to Special Envoy leadership?",
+    "options": [
+      "Speak clearly and strongly",
+      "The greatest among you must be your servant",
+      "Plan everything ahead",
+      "Serve without asking questions"
+    ],
+    "correctAnswer": "The greatest among you must be your servant"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "How should Special Envoys respond to repeated failure in their team?",
+    "options": [
+      "Request for team replacement",
+      "Reduce expectations",
+      "Lead with prayer, patience, instruction, and love",
+      "Complete all work alone"
+    ],
+    "correctAnswer": "Lead with prayer, patience, instruction, and love"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "Which of these shows true spiritual maturity in a Special Envoy?",
+    "options": [
+      "Knowledge of all ranks",
+      "Ability to quote long verses",
+      "Consistent Christlike character even in pressure and silence",
+      "Chapter popularity"
+    ],
+    "correctAnswer": "Consistent Christlike character even in pressure and silence"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "Why must a Special Envoy lead by example more than words?",
+    "options": [
+      "It avoids criticism",
+      "Others copy actions before they remember instructions",
+      "Words are confusing",
+      "It keeps the group quiet"
+    ],
+    "correctAnswer": "Others copy actions before they remember instructions"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "Which action reveals a false heart in a leader?",
+    "options": [
+      "Preparing deeply",
+      "Correcting gently",
+      "Serving publicly and complaining privately",
+      "Leading with Scripture"
+    ],
+    "correctAnswer": "Serving publicly and complaining privately"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What key leadership quality is shown in 1 Peter 5:2–3 for spiritual leaders?",
+    "options": [
+      "Rule with firmness",
+      "Lead with joy, not compulsion, and be an example to the flock",
+      "Promote yourself wisely",
+      "Avoid stressful roles"
+    ],
+    "correctAnswer": "Lead with joy, not compulsion, and be an example to the flock"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "Why is accountability to God more serious at the Special Envoy level?",
+    "options": [
+      "They report directly to counselors",
+      "They lead official ceremonies",
+      "They influence others more and must model Christ clearly",
+      "They are given more questions"
+    ],
+    "correctAnswer": "They influence others more and must model Christ clearly"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "How can a Special Envoy avoid burnout in leadership?",
+    "options": [
+      "Reduce assignments",
+      "Share all duties",
+      "Maintain spiritual disciplines and rest in God’s strength",
+      "Step back often"
+    ],
+    "correctAnswer": "Maintain spiritual disciplines and rest in God’s strength"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What kind of legacy should a Special Envoy leave?",
+    "options": [
+      "Fame and activities",
+      "Highest rank score",
+      "A path of faithfulness, discipleship, and humble leadership",
+      "Being voted most active"
+    ],
+    "correctAnswer": "A path of faithfulness, discipleship, and humble leadership"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "Which value best prepares a Special Envoy for higher spiritual leadership?",
+    "options": [
+      "Popularity in church",
+      "Uniform mastery",
+      "Obedience, reflection, Scripture application, and mentoring others",
+      "Being active in social media"
+    ],
+    "correctAnswer": "Obedience, reflection, Scripture application, and mentoring others"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What’s one danger if a Special Envoy stops reflecting on their own walk?",
+    "options": [
+      "They will forget verses",
+      "They will lose favor",
+      "They may lead others but drift personally from Christ",
+      "They will be corrected more"
+    ],
+    "correctAnswer": "They may lead others but drift personally from Christ"
+  },
+
+
+
+  {
+    "rank": "Special Envoy",
+    "question": "Why should a Special Envoy avoid leading out of competition or comparison?",
+    "options": [
+      "To avoid being disliked",
+      "To protect team structure",
+      "Because leadership is about service, not performance",
+      "Because it delays promotion"
+    ],
+    "correctAnswer": "Because leadership is about service, not performance"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What does Hebrews 12:1 encourage Special Envoys to do?",
+    "options": [
+      "Correct quickly",
+      "Memorize deeply",
+      "Run with perseverance the race marked out for us",
+      "Serve with tradition"
+    ],
+    "correctAnswer": "Run with perseverance the race marked out for us"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "Which attitude best reflects maturity in responding to team criticism?",
+    "options": [
+      "Avoiding the group",
+      "Explaining your plan again",
+      "Listening humbly and seeking to improve",
+      "Correcting the critic in return"
+    ],
+    "correctAnswer": "Listening humbly and seeking to improve"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "Why must Special Envoys prioritize integrity even in secret?",
+    "options": [
+      "To protect reputation",
+      "To avoid team punishment",
+      "Because true leadership flows from a pure, consistent life before God",
+      "To gain respect"
+    ],
+    "correctAnswer": "Because true leadership flows from a pure, consistent life before God"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What is the Special Envoy's responsibility during spiritual confusion in a group?",
+    "options": [
+      "Refer them to counselors",
+      "Stay neutral",
+      "Lead with clarity from Scripture and prayer",
+      "Assign new leaders"
+    ],
+    "correctAnswer": "Lead with clarity from Scripture and prayer"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "How can Special Envoys avoid spiritual pride?",
+    "options": [
+      "Avoid leading often",
+      "Focus on achievements only",
+      "Serve from grace, stay teachable, and reflect on Christ’s humility",
+      "Lead quietly"
+    ],
+    "correctAnswer": "Serve from grace, stay teachable, and reflect on Christ’s humility"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "Which of these qualities is most essential when discipling a younger RA?",
+    "options": [
+      "Strictness and discipline",
+      "Spiritual maturity and relational patience",
+      "High knowledge and task assignment",
+      "Visibility in meetings"
+    ],
+    "correctAnswer": "Spiritual maturity and relational patience"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What does Psalm 139:23–24 teach Special Envoys about leadership reflection?",
+    "options": [
+      "Pray for God to search and correct the heart",
+      "Always stay confident",
+      "Lead with strength",
+      "Be silent when wrong"
+    ],
+    "correctAnswer": "Pray for God to search and correct the heart"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "Which is a spiritual danger when a leader loses focus on God?",
+    "options": [
+      "Reduced participation",
+      "Team mistakes",
+      "Burnout, pride, and fruitless leadership",
+      "Missing drills"
+    ],
+    "correctAnswer": "Burnout, pride, and fruitless leadership"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "Why is it vital for a Special Envoy to stay grounded in community?",
+    "options": [
+      "To reduce leadership weight",
+      "To avoid counselor correction",
+      "So they grow through accountability and mutual encouragement",
+      "To avoid isolation fines"
+    ],
+    "correctAnswer": "So they grow through accountability and mutual encouragement"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "How can a Special Envoy promote godly unity in a team with disagreements?",
+    "options": [
+      "Allow silence until peace returns",
+      "Assign everyone equal work",
+      "Create safe space to speak, lead prayerfully, and rebuild trust",
+      "Change all assignments"
+    ],
+    "correctAnswer": "Create safe space to speak, lead prayerfully, and rebuild trust"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What makes a leadership testimony powerful in RA?",
+    "options": [
+      "Excellent grammar",
+      "Winning competitions",
+      "Stories of transformation, obedience, and God’s faithfulness",
+      "Strict leadership history"
+    ],
+    "correctAnswer": "Stories of transformation, obedience, and God’s faithfulness"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What does Proverbs 3:5–6 guide Special Envoys to do?",
+    "options": [
+      "Memorize the laws",
+      "Trust the manual fully",
+      "Trust in the Lord with all your heart and submit to Him",
+      "Listen to superiors first"
+    ],
+    "correctAnswer": "Trust in the Lord with all your heart and submit to Him"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "How should a Special Envoy lead during spiritual discouragement?",
+    "options": [
+      "Take a break from service",
+      "Shift responsibility to juniors",
+      "Pray honestly, stay in God’s Word, and ask for help",
+      "Speak less during meetings"
+    ],
+    "correctAnswer": "Pray honestly, stay in God’s Word, and ask for help"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "Which of these proves a Special Envoy leads for God’s glory?",
+    "options": [
+      "He avoids small tasks",
+      "He is mentioned often by the pastor",
+      "He serves faithfully even when no one notices",
+      "He leads every drill"
+    ],
+    "correctAnswer": "He serves faithfully even when no one notices"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What attitude must a Special Envoy have during conflict resolution?",
+    "options": [
+      "Defend their viewpoint",
+      "Let others sort it out",
+      "Pursue peace with humility, grace, and clear communication",
+      "Stay quiet throughout"
+    ],
+    "correctAnswer": "Pursue peace with humility, grace, and clear communication"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What is the long-term goal of Special Envoy leadership?",
+    "options": [
+      "RA honors",
+      "Perfect team performance",
+      "Raising godly leaders who multiply Christlike service",
+      "Chapter competitions"
+    ],
+    "correctAnswer": "Raising godly leaders who multiply Christlike service"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "Which of the following most weakens spiritual leadership?",
+    "options": [
+      "Lack of creativity",
+      "Dependence on team",
+      "Leading without prayer, humility, or biblical guidance",
+      "Speaking softly"
+    ],
+    "correctAnswer": "Leading without prayer, humility, or biblical guidance"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What does John 15:5 teach that every Special Envoy should remember?",
+    "options": [
+      "Stay in the Word for strength",
+      "RA comes with obedience",
+      "Without Christ you can do nothing",
+      "The Spirit empowers teaching"
+    ],
+    "correctAnswer": "Without Christ you can do nothing"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What’s the best way for a Special Envoy to prepare a team spiritually before outreach?",
+    "options": [
+      "Assign memory work",
+      "Brief the team quickly",
+      "Pray together, review purpose, and surrender the plan to God",
+      "Start the outreach without delay"
+    ],
+    "correctAnswer": "Pray together, review purpose, and surrender the plan to God"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "How should a Special Envoy approach correction from junior members?",
+    "options": [
+      "Ignore it",
+      "Prove your point",
+      "Receive humbly and evaluate the truth in it",
+      "Warn them"
+    ],
+    "correctAnswer": "Receive humbly and evaluate the truth in it"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "Why is private devotion essential for public service?",
+    "options": [
+      "It teaches you memory verses",
+      "It protects your image",
+      "Because leadership must flow from personal walk with God",
+      "It adds extra points"
+    ],
+    "correctAnswer": "Because leadership must flow from personal walk with God"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What fruit shows that a Special Envoy is spiritually maturing?",
+    "options": [
+      "Increased recognition",
+      "Confident speaking",
+      "More joy, peace, patience, and godly influence on others",
+      "Clear answers"
+    ],
+    "correctAnswer": "More joy, peace, patience, and godly influence on others"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What makes your RA mission project acceptable before God?",
+    "options": [
+      "Smooth execution",
+      "Exciting performance",
+      "Faithful obedience and Christ-centered love during it",
+      "Uniform perfection"
+    ],
+    "correctAnswer": "Faithful obedience and Christ-centered love during it"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "Which leadership goal should define your Special Envoy legacy?",
+    "options": [
+      "Being remembered for discipline",
+      "Leading all events",
+      "Raising a generation that follows Christ boldly and leads humbly",
+      "Winning chapter honors"
+    ],
+    "correctAnswer": "Raising a generation that follows Christ boldly and leads humbly"
+  },
+
+
+  {
+    "rank": "Special Envoy",
+    "question": "How should a Special Envoy measure their effectiveness in leadership?",
+    "options": [
+      "By team popularity",
+      "By completion of all tasks",
+      "By spiritual growth of those led and faithfulness to God",
+      "By number of assignments led"
+    ],
+    "correctAnswer": "By spiritual growth of those led and faithfulness to God"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What does it mean to lead 'above reproach' as stated in 1 Timothy 3:2?",
+    "options": [
+      "To lead with perfect memory",
+      "To be respected by your peers",
+      "To live with integrity so no one has reason to accuse you",
+      "To be visible in all activities"
+    ],
+    "correctAnswer": "To live with integrity so no one has reason to accuse you"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "How should a Special Envoy handle spiritual dryness during service?",
+    "options": [
+      "Focus on tasks only",
+      "Wait for motivation",
+      "Return to Scripture, prayer, and seek counsel",
+      "Avoid deep assignments"
+    ],
+    "correctAnswer": "Return to Scripture, prayer, and seek counsel"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "Which attitude reveals Christlike leadership in RA?",
+    "options": [
+      "Firm correction and pride",
+      "Grace-filled truth and consistent example",
+      "Silence and mystery",
+      "Emotional expressions often"
+    ],
+    "correctAnswer": "Grace-filled truth and consistent example"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What warning does Galatians 6:3 give to growing leaders?",
+    "options": [
+      "Don’t stop learning memory verses",
+      "Don’t argue over missions",
+      "If anyone thinks they are something when they are not, they deceive themselves",
+      "Let juniors lead sometimes"
+    ],
+    "correctAnswer": "If anyone thinks they are something when they are not, they deceive themselves"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What does a healthy Special Envoy team culture include?",
+    "options": [
+      "Strict assignments",
+      "Praise and correction",
+      "Accountability, encouragement, humility, and shared goals",
+      "Fast competition prep"
+    ],
+    "correctAnswer": "Accountability, encouragement, humility, and shared goals"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "Why must a Special Envoy avoid comparing themselves to other leaders?",
+    "options": [
+      "It causes jealousy",
+      "It leads to arguments",
+      "It distracts from God’s personal call and may cause pride or insecurity",
+      "It breaks RA rules"
+    ],
+    "correctAnswer": "It distracts from God’s personal call and may cause pride or insecurity"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "Why is biblical literacy essential for a Special Envoy?",
+    "options": [
+      "To answer all questions",
+      "To impress counselors",
+      "To guide decisions, correct gently, and apply truth in leadership",
+      "To avoid failure"
+    ],
+    "correctAnswer": "To guide decisions, correct gently, and apply truth in leadership"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "How should a Special Envoy approach team weakness?",
+    "options": [
+      "Cover for everyone",
+      "Avoid confrontation",
+      "Identify, address in love, and support growth",
+      "Remove weaker members"
+    ],
+    "correctAnswer": "Identify, address in love, and support growth"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What is one outcome of leading without prayer?",
+    "options": [
+      "Faster execution",
+      "Pride and poor spiritual results",
+      "Increased confidence",
+      "Longer meetings"
+    ],
+    "correctAnswer": "Pride and poor spiritual results"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What does Titus 2:7 advise leaders like Special Envoys to do?",
+    "options": [
+      "Teach more often",
+      "Correct strongly",
+      "Set an example by doing what is good",
+      "Lead juniors only"
+    ],
+    "correctAnswer": "Set an example by doing what is good"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "Why is reflection after missions important for Special Envoys?",
+    "options": [
+      "To record attendance",
+      "To share on social media",
+      "To grow through lessons, glorify God, and prepare for future",
+      "To complete reports fast"
+    ],
+    "correctAnswer": "To grow through lessons, glorify God, and prepare for future"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What leadership quality is most visible during pressure?",
+    "options": [
+      "Volume",
+      "Speed",
+      "Consistency in love, truth, and grace",
+      "Rank knowledge"
+    ],
+    "correctAnswer": "Consistency in love, truth, and grace"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What is one spiritual test of a leader’s maturity?",
+    "options": [
+      "Memorizing books",
+      "Managing tasks well",
+      "Reacting with humility to failure or correction",
+      "Organizing parades"
+    ],
+    "correctAnswer": "Reacting with humility to failure or correction"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "Which of these best defines spiritual leadership?",
+    "options": [
+      "Directing all teams",
+      "Serving God by guiding others in Christlike character and mission",
+      "Leading only in drills",
+      "Explaining the RA structure"
+    ],
+    "correctAnswer": "Serving God by guiding others in Christlike character and mission"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "Why must a Special Envoy be spiritually alert during team disagreements?",
+    "options": [
+      "To defend his idea",
+      "To maintain his position",
+      "To lead with patience, listen, and restore unity",
+      "To discipline members"
+    ],
+    "correctAnswer": "To lead with patience, listen, and restore unity"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What danger comes from leading with hidden sin?",
+    "options": [
+      "Poor teamwork",
+      "Loss of chapter unity",
+      "Spiritual decay and harm to personal witness",
+      "Missed promotions"
+    ],
+    "correctAnswer": "Spiritual decay and harm to personal witness"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "Which passage reminds leaders to depend on God for strength?",
+    "options": [
+      "Isaiah 40:31",
+      "Matthew 4:4",
+      "Acts 1:8",
+      "Hebrews 13:7"
+    ],
+    "correctAnswer": "Isaiah 40:31"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "Which trait proves a Special Envoy is led by the Spirit?",
+    "options": [
+      "Bold speech",
+      "Strict planning",
+      "Peace, patience, self-control, and faithfulness",
+      "Fast corrections"
+    ],
+    "correctAnswer": "Peace, patience, self-control, and faithfulness"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "How does a Special Envoy guard against spiritual pride?",
+    "options": [
+      "Limit their influence",
+      "Fast often",
+      "Stay submitted to God, receive correction, and remember they serve by grace",
+      "Do less visible tasks"
+    ],
+    "correctAnswer": "Stay submitted to God, receive correction, and remember they serve by grace"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What should guide a Special Envoy when writing reflections?",
+    "options": [
+      "Fulfilling requirements",
+      "Impressing leaders",
+      "Honest spiritual evaluation and prayerful insight",
+      "Copying past reports"
+    ],
+    "correctAnswer": "Honest spiritual evaluation and prayerful insight"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "How can a Special Envoy help prevent division among junior ranks?",
+    "options": [
+      "Assign more tasks",
+      "Set clear boundaries",
+      "Model unity, address conflict in love, and disciple younger leaders",
+      "Call for discipline often"
+    ],
+    "correctAnswer": "Model unity, address conflict in love, and disciple younger leaders"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What defines a Special Envoy’s leadership impact?",
+    "options": [
+      "Leading more drills",
+      "Training officers",
+      "Raising others in Christlikeness and service beyond his time",
+      "Having more badges"
+    ],
+    "correctAnswer": "Raising others in Christlikeness and service beyond his time"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "Why is prayer essential before any RA mission activity?",
+    "options": [
+      "To fulfill the format",
+      "To please counselors",
+      "To invite God's presence, direction, and fruit",
+      "To show you're prepared"
+    ],
+    "correctAnswer": "To invite God's presence, direction, and fruit"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What is the ultimate goal of a Special Envoy's mission life?",
+    "options": [
+      "Leading nationwide",
+      "RA national badge",
+      "Seeing lives transformed and Christ glorified through every effort",
+      "Being respected"
+    ],
+    "correctAnswer": "Seeing lives transformed and Christ glorified through every effort"
+  },
+
+
+  {
+    "rank": "Special Envoy",
+    "question": "What should a Special Envoy do if he begins to feel spiritually dry while leading?",
+    "options": [
+      "Push through in silence",
+      "Hand off the role to someone else",
+      "Pause to seek God in prayer, Scripture, and accountability",
+      "Focus on external success"
+    ],
+    "correctAnswer": "Pause to seek God in prayer, Scripture, and accountability"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "Which action is most aligned with servant leadership?",
+    "options": [
+      "Giving orders and checking results",
+      "Organizing events efficiently",
+      "Serving quietly, lifting others, and doing unnoticed work",
+      "Correcting others openly"
+    ],
+    "correctAnswer": "Serving quietly, lifting others, and doing unnoticed work"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What danger exists when a leader ignores personal sin?",
+    "options": [
+      "Decreased popularity",
+      "Reduced RA participation",
+      "Damage to their spiritual influence and relationship with God",
+      "Team disunity"
+    ],
+    "correctAnswer": "Damage to their spiritual influence and relationship with God"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What should be the top priority for a Special Envoy in planning any RA mission?",
+    "options": [
+      "Creativity and performance",
+      "Speed and excellence",
+      "Glorifying Christ and pointing others to Him",
+      "Satisfying officer expectations"
+    ],
+    "correctAnswer": "Glorifying Christ and pointing others to Him"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What lesson does Philippians 2:5 teach Special Envoys about mindset?",
+    "options": [
+      "Be focused during duties",
+      "Stay calm under pressure",
+      "Have the same attitude as Christ: humility and obedience",
+      "Be first in leadership"
+    ],
+    "correctAnswer": "Have the same attitude as Christ: humility and obedience"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "How can Special Envoys guide their juniors into deeper faith?",
+    "options": [
+      "Assign more reading",
+      "Organize prayer routines",
+      "Model spiritual habits, share truth, and walk with them in life",
+      "Host quizzes and games"
+    ],
+    "correctAnswer": "Model spiritual habits, share truth, and walk with them in life"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "Why is personal integrity more important than public success in RA?",
+    "options": [
+      "It earns faster promotions",
+      "It reduces pressure",
+      "God looks at the heart and uses clean vessels for lasting impact",
+      "It avoids offense"
+    ],
+    "correctAnswer": "God looks at the heart and uses clean vessels for lasting impact"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What kind of leadership does Jesus model in Matthew 23:11?",
+    "options": [
+      "Charismatic leadership",
+      "The leader must have a title",
+      "The greatest among you will be your servant",
+      "Strategic leadership"
+    ],
+    "correctAnswer": "The greatest among you will be your servant"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "How does accountability help Special Envoys grow spiritually?",
+    "options": [
+      "It shows loyalty",
+      "It keeps activities running",
+      "It invites correction and builds godly character",
+      "It helps record results"
+    ],
+    "correctAnswer": "It invites correction and builds godly character"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "Which sign best shows that a Special Envoy is ready for higher leadership?",
+    "options": [
+      "He leads all events",
+      "He gets public praise",
+      "He raises others, leads by example, and walks in humility",
+      "He knows the manual best"
+    ],
+    "correctAnswer": "He raises others, leads by example, and walks in humility"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "Why must a Special Envoy never lead based on pride?",
+    "options": [
+      "It may lead to error",
+      "It limits team growth",
+      "Pride hinders spiritual vision, invites destruction, and dishonors Christ",
+      "Others may leave"
+    ],
+    "correctAnswer": "Pride hinders spiritual vision, invites destruction, and dishonors Christ"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "Which of the following helps prevent spiritual burnout in RA service?",
+    "options": [
+      "Weekly checklists",
+      "Prayer, healthy rest, Word study, and shared responsibility",
+      "Avoiding hard assignments",
+      "Focusing only on team results"
+    ],
+    "correctAnswer": "Prayer, healthy rest, Word study, and shared responsibility"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "Why should a Special Envoy involve others in decisions?",
+    "options": [
+      "To reduce mistakes",
+      "To follow group policy",
+      "To reflect the body of Christ and build trust and growth",
+      "To avoid correction"
+    ],
+    "correctAnswer": "To reflect the body of Christ and build trust and growth"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What kind of leadership leaves a lasting legacy in RA?",
+    "options": [
+      "Strict enforcement of rules",
+      "Being involved in every chapter event",
+      "Raising Christ-centered, servant-hearted, Spirit-filled disciples",
+      "Winning all memory awards"
+    ],
+    "correctAnswer": "Raising Christ-centered, servant-hearted, Spirit-filled disciples"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What does Colossians 1:10 encourage Special Envoys to do?",
+    "options": [
+      "Plan more events",
+      "Avoid sin",
+      "Live lives worthy of the Lord and bear fruit in every good work",
+      "Stay in uniform"
+    ],
+    "correctAnswer": "Live lives worthy of the Lord and bear fruit in every good work"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "How does humility help Special Envoys in correcting others?",
+    "options": [
+      "It avoids arguments",
+      "It softens their tone",
+      "It allows correction to be received in love and not pride",
+      "It stops questions"
+    ],
+    "correctAnswer": "It allows correction to be received in love and not pride"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What is the true reward for faithful RA leadership?",
+    "options": [
+      "Promotion to Dean",
+      "More opportunities",
+      "Pleasing Christ and impacting eternity",
+      "Public honor and chapter titles"
+    ],
+    "correctAnswer": "Pleasing Christ and impacting eternity"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What is a danger of leading for approval instead of obedience?",
+    "options": [
+      "More pressure to succeed",
+      "Fear of correction",
+      "It can lead to compromise, burnout, and shallow fruit",
+      "Lack of structure"
+    ],
+    "correctAnswer": "It can lead to compromise, burnout, and shallow fruit"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "Which is most true of a Spirit-led Special Envoy?",
+    "options": [
+      "He gets everything done early",
+      "He leads with excellence and relies on the Holy Spirit, not self",
+      "He avoids mistakes publicly",
+      "He memorizes Scripture only"
+    ],
+    "correctAnswer": "He leads with excellence and relies on the Holy Spirit, not self"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What should a Special Envoy do when a mission plan completely fails?",
+    "options": [
+      "Blame poor execution",
+      "Hide it from others",
+      "Reflect, repent if needed, and seek to grow through it",
+      "Avoid missions for a while"
+    ],
+    "correctAnswer": "Reflect, repent if needed, and seek to grow through it"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "Why should a Special Envoy write honest reflections?",
+    "options": [
+      "To fill their file",
+      "To gain marks",
+      "To examine spiritual growth and align future steps with God",
+      "To show effort"
+    ],
+    "correctAnswer": "To examine spiritual growth and align future steps with God"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What does 1 Corinthians 3:6 remind Special Envoys about their role?",
+    "options": [
+      "They must plant and harvest everything",
+      "Success depends on team unity",
+      "Only God gives true growth",
+      "They must water faithfully"
+    ],
+    "correctAnswer": "Only God gives true growth"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What must every RA leader remember according to Micah 6:8?",
+    "options": [
+      "Speak boldly and act fast",
+      "Seek advice from seniors",
+      "Do justice, love mercy, and walk humbly with your God",
+      "Lead through tradition"
+    ],
+    "correctAnswer": "Do justice, love mercy, and walk humbly with your God"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What is the difference between serving for love and serving for recognition?",
+    "options": [
+      "Love brings God glory; recognition seeks man’s approval",
+      "Love is faster",
+      "Recognition feels more rewarding",
+      "Recognition builds more friends"
+    ],
+    "correctAnswer": "Love brings God glory; recognition seeks man’s approval"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "How does God's Word equip a Special Envoy according to 2 Timothy 3:16–17?",
+    "options": [
+      "It teaches how to preach",
+      "It brings correction and emotional strength",
+      "It equips them for every good work by teaching, rebuking, correcting, and training",
+      "It trains in history"
+    ],
+    "correctAnswer": "It equips them for every good work by teaching, rebuking, correcting, and training"
+  },
+
+
+  {
+    "rank": "Special Envoy",
+    "question": "Why is humility considered a leadership strength in spiritual service?",
+    "options": [
+      "It helps avoid mistakes",
+      "It keeps the leader from pride and makes room for God’s grace to work",
+      "It keeps juniors quiet",
+      "It helps one stay unnoticed"
+    ],
+    "correctAnswer": "It keeps the leader from pride and makes room for God’s grace to work"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What does Proverbs 27:17 teach about leadership relationships?",
+    "options": [
+      "Avoid confrontations in leadership",
+      "Correct others regularly",
+      "Iron sharpens iron, so one person sharpens another",
+      "Respect ranks more than people"
+    ],
+    "correctAnswer": "Iron sharpens iron, so one person sharpens another"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "How should a Special Envoy view setbacks during service?",
+    "options": [
+      "A sign of failure",
+      "A reason to quit and reflect later",
+      "An opportunity for growth and dependence on God",
+      "A time to shift responsibility"
+    ],
+    "correctAnswer": "An opportunity for growth and dependence on God"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What is the most effective way to lead a diverse team spiritually?",
+    "options": [
+      "Assign them roles and check performance",
+      "Use only experienced members",
+      "Know each one, pray with them, and help them grow through love and truth",
+      "Create smaller task groups"
+    ],
+    "correctAnswer": "Know each one, pray with them, and help them grow through love and truth"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "Which is the right motive for spiritual leadership?",
+    "options": [
+      "Recognition and achievement",
+      "Influence and respect",
+      "Love for God and desire to serve His people faithfully",
+      "Desire for order"
+    ],
+    "correctAnswer": "Love for God and desire to serve His people faithfully"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "How does Psalm 78:72 guide RA leadership?",
+    "options": [
+      "Be quick and strong in decisions",
+      "Lead with integrity of heart and skillful hands",
+      "Correct and command others",
+      "Serve quietly at all times"
+    ],
+    "correctAnswer": "Lead with integrity of heart and skillful hands"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What action best shows spiritual maturity in the face of team failure?",
+    "options": [
+      "Accept defeat",
+      "Blame no one and seek God’s wisdom to rebuild and learn",
+      "Quietly lead next time",
+      "Plan less ambitious tasks"
+    ],
+    "correctAnswer": "Blame no one and seek God’s wisdom to rebuild and learn"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What is one biblical example of servant leadership?",
+    "options": [
+      "David in battle",
+      "Nehemiah rebuilding with people",
+      "Paul writing many letters",
+      "Joshua conquering Jericho"
+    ],
+    "correctAnswer": "Nehemiah rebuilding with people"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "Which of the following can best help a discouraged RA team?",
+    "options": [
+      "Giving them rest",
+      "Replacing members",
+      "Encouraging through the Word and serving alongside them",
+      "Shifting to another project"
+    ],
+    "correctAnswer": "Encouraging through the Word and serving alongside them"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What should be the Special Envoy’s foundation for all leadership choices?",
+    "options": [
+      "Counselor advice",
+      "Team comfort",
+      "Biblical values and prayer",
+      "RA traditions"
+    ],
+    "correctAnswer": "Biblical values and prayer"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "How can Special Envoys help junior RAs grow in confidence?",
+    "options": [
+      "Assign them easy roles",
+      "Praise them in meetings",
+      "Mentor them patiently, give chances, and affirm spiritual effort",
+      "Help with memory drills"
+    ],
+    "correctAnswer": "Mentor them patiently, give chances, and affirm spiritual effort"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What is the spiritual purpose of evaluation forms after a mission?",
+    "options": [
+      "For record keeping",
+      "To track leader participation",
+      "To reflect on God’s work and improve future ministry",
+      "To report failures"
+    ],
+    "correctAnswer": "To reflect on God’s work and improve future ministry"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What is one reason Christ gave His followers spiritual gifts?",
+    "options": [
+      "To show spiritual levels",
+      "To build church programs",
+      "To equip the body for works of service and growth",
+      "To teach doctrine"
+    ],
+    "correctAnswer": "To equip the body for works of service and growth"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "How does leading with love change RA team dynamics?",
+    "options": [
+      "People follow faster",
+      "It encourages cooperation and builds true unity",
+      "It reduces complaints",
+      "It keeps members quiet"
+    ],
+    "correctAnswer": "It encourages cooperation and builds true unity"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What should a leader prioritize when choosing RA mission themes?",
+    "options": [
+      "Creativity and fun",
+      "Tradition and structure",
+      "Biblical relevance and spiritual impact",
+      "Peer popularity"
+    ],
+    "correctAnswer": "Biblical relevance and spiritual impact"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "How can a Special Envoy guard their heart during leadership success?",
+    "options": [
+      "Stay low and talk less",
+      "Serve others less to avoid pride",
+      "Remain prayerful, grateful, and dependent on Christ",
+      "Withdraw from activity"
+    ],
+    "correctAnswer": "Remain prayerful, grateful, and dependent on Christ"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "Which of the following should be your deepest motivation to serve as a Special Envoy?",
+    "options": [
+      "Love for team",
+      "Desire for growth",
+      "Love for Christ and obedience to His call",
+      "Hope for promotion"
+    ],
+    "correctAnswer": "Love for Christ and obedience to His call"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What does 1 Samuel 16:7 remind leaders about appearances?",
+    "options": [
+      "Dress matters in leadership",
+      "God sees through uniform",
+      "The Lord looks at the heart, not outward appearance",
+      "Respect comes through looks"
+    ],
+    "correctAnswer": "The Lord looks at the heart, not outward appearance"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "How should a Special Envoy begin every leadership task?",
+    "options": [
+      "With confidence",
+      "By forming a team",
+      "With prayer and surrender to God",
+      "With RA manual review"
+    ],
+    "correctAnswer": "With prayer and surrender to God"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "Which of these is not a sign of mature RA leadership?",
+    "options": [
+      "Serving quietly and lovingly",
+      "Correcting with gentleness",
+      "Doing everything alone",
+      "Encouraging growth in others"
+    ],
+    "correctAnswer": "Doing everything alone"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What does God require most from those He uses in leadership?",
+    "options": [
+      "Talent and strength",
+      "Training and rank",
+      "Faithfulness, humility, and obedience",
+      "Experience and age"
+    ],
+    "correctAnswer": "Faithfulness, humility, and obedience"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What should a Special Envoy do when they fall into error while serving?",
+    "options": [
+      "Cover the issue",
+      "Continue silently",
+      "Repent, seek restoration, and grow through it",
+      "Ask to be excused from ranks"
+    ],
+    "correctAnswer": "Repent, seek restoration, and grow through it"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "Why is it important for a leader to serve joyfully even in difficult times?",
+    "options": [
+      "It keeps the team relaxed",
+      "Joy reflects Christ and helps others remain encouraged",
+      "It pleases observers",
+      "It maintains control"
+    ],
+    "correctAnswer": "Joy reflects Christ and helps others remain encouraged"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "How does Romans 12:11 apply to RA service?",
+    "options": [
+      "Stay quiet and serve",
+      "Be fervent in spirit, serve the Lord with zeal",
+      "Always lead others",
+      "Serve after study only"
+    ],
+    "correctAnswer": "Be fervent in spirit, serve the Lord with zeal"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "Which of these traits best builds a godly RA team culture?",
+    "options": [
+      "Loud leadership",
+      "Strict rules",
+      "Grace, encouragement, and shared discipleship",
+      "Command and control"
+    ],
+    "correctAnswer": "Grace, encouragement, and shared discipleship"
+  },
+
+
+  {
+    "rank": "Special Envoy",
+    "question": "How can a Special Envoy use correction to build others rather than break them?",
+    "options": [
+      "Correct immediately in front of all",
+      "Use authority clearly",
+      "Correct gently with love, aiming at growth not shame",
+      "Let counselors do it always"
+    ],
+    "correctAnswer": "Correct gently with love, aiming at growth not shame"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "Why must Special Envoys take time to reflect after serving?",
+    "options": [
+      "To give personal testimony",
+      "To find errors in others",
+      "To evaluate their heart, seek growth, and glorify God",
+      "To write RA reports quickly"
+    ],
+    "correctAnswer": "To evaluate their heart, seek growth, and glorify God"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What is one way a Special Envoy can identify spiritual growth in their team?",
+    "options": [
+      "Through team quizzes",
+      "From attendance logs",
+      "By seeing increased love, prayer, and servant attitudes",
+      "By improved uniform checks"
+    ],
+    "correctAnswer": "By seeing increased love, prayer, and servant attitudes"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What does Paul mean by being a 'living sacrifice' in Romans 12:1?",
+    "options": [
+      "Giving more offerings",
+      "Serving as a leader",
+      "Offering our whole life in daily surrender and obedience to God",
+      "Staying quiet"
+    ],
+    "correctAnswer": "Offering our whole life in daily surrender and obedience to God"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "Why should Special Envoys avoid seeking attention during service?",
+    "options": [
+      "To avoid criticism",
+      "To serve humbly and point others to Christ rather than self",
+      "To please officers",
+      "To stay focused"
+    ],
+    "correctAnswer": "To serve humbly and point others to Christ rather than self"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What is one strength of a quiet, faithful RA leader?",
+    "options": [
+      "They avoid stress",
+      "They observe and correct silently",
+      "They lead by deep example and consistent love",
+      "They are usually promoted fast"
+    ],
+    "correctAnswer": "They lead by deep example and consistent love"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What does it mean to 'guard your heart' as a leader (Proverbs 4:23)?",
+    "options": [
+      "Be strong emotionally",
+      "Avoid friendships",
+      "Watch what influences your life because it shapes your actions",
+      "Stay away from juniors"
+    ],
+    "correctAnswer": "Watch what influences your life because it shapes your actions"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "How can a Special Envoy guide team members in spiritual confusion?",
+    "options": [
+      "Refer them to the manual",
+      "Tell them to pray alone",
+      "Walk with them in Scripture, prayer, and truth",
+      "Let them figure it out"
+    ],
+    "correctAnswer": "Walk with them in Scripture, prayer, and truth"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What does 1 Corinthians 13 remind leaders about their work?",
+    "options": [
+      "Effort is good",
+      "Works prove leadership",
+      "Without love, all service is empty",
+      "Patience is for followers"
+    ],
+    "correctAnswer": "Without love, all service is empty"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What is the role of failure in spiritual leadership?",
+    "options": [
+      "It disqualifies you",
+      "It teaches who is dependable",
+      "It reveals weakness",
+      "It is an invitation to grow deeper in Christ’s grace"
+    ],
+    "correctAnswer": "It is an invitation to grow deeper in Christ’s grace"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "Which leadership mindset reflects the Gospel in action?",
+    "options": [
+      "Lead with control and order",
+      "Be respected at all costs",
+      "Sacrifice, serve, forgive, and love others like Jesus",
+      "Always aim for excellence"
+    ],
+    "correctAnswer": "Sacrifice, serve, forgive, and love others like Jesus"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "Why should RA leadership always return to the Gospel?",
+    "options": [
+      "To stay religious",
+      "To quote Scripture during meetings",
+      "Because our service, identity, and strength are rooted in Christ’s finished work",
+      "To appear spiritual"
+    ],
+    "correctAnswer": "Because our service, identity, and strength are rooted in Christ’s finished work"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "Which response shows leadership maturity when juniors disrespect you?",
+    "options": [
+      "Correct them sharply",
+      "Avoid them",
+      "Respond in love, clarify expectations, and continue to lead faithfully",
+      "Report them immediately"
+    ],
+    "correctAnswer": "Respond in love, clarify expectations, and continue to lead faithfully"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "How does serving behind the scenes help shape a servant leader?",
+    "options": [
+      "It gives experience",
+      "It helps earn trust",
+      "It trains humility and aligns your heart to serve for God’s glory",
+      "It teaches silence"
+    ],
+    "correctAnswer": "It trains humility and aligns your heart to serve for God’s glory"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "Which of these practices helps build a spiritually healthy RA chapter?",
+    "options": [
+      "High-level projects",
+      "Strict drill routines",
+      "Consistent Word teaching, discipleship, and prayer",
+      "Active parade scheduling"
+    ],
+    "correctAnswer": "Consistent Word teaching, discipleship, and prayer"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "How does transparency strengthen team trust?",
+    "options": [
+      "It helps teams avoid discipline",
+      "It proves leadership skills",
+      "It builds honesty, respect, and humility",
+      "It reduces time spent planning"
+    ],
+    "correctAnswer": "It builds honesty, respect, and humility"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What does spiritual leadership aim to do at every RA level?",
+    "options": [
+      "Lead events efficiently",
+      "Ensure promotion flow",
+      "Glorify God, transform lives, and build disciples",
+      "Reduce behavior issues"
+    ],
+    "correctAnswer": "Glorify God, transform lives, and build disciples"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "Why must a leader surrender their ambitions to God?",
+    "options": [
+      "To follow chapter rules",
+      "To avoid disappointment",
+      "Because God's purpose is higher and more fruitful than our plans",
+      "To please counselors"
+    ],
+    "correctAnswer": "Because God's purpose is higher and more fruitful than our plans"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What does Galatians 6:9 teach Special Envoys about perseverance?",
+    "options": [
+      "Do your best now",
+      "Press others to do more",
+      "Don’t grow weary in doing good, for in due season you will reap",
+      "Let others lead sometimes"
+    ],
+    "correctAnswer": "Don’t grow weary in doing good, for in due season you will reap"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What attitude must Special Envoys carry into every service opportunity?",
+    "options": [
+      "Confident leadership",
+      "Desire for recognition",
+      "Readiness to obey and serve with joy, even in small things",
+      "Team accountability"
+    ],
+    "correctAnswer": "Readiness to obey and serve with joy, even in small things"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "Which quality best defines Christlike leadership influence?",
+    "options": [
+      "Memorization skills",
+      "Boldness and creativity",
+      "Humility, faithfulness, and love in action",
+      "Program excellence"
+    ],
+    "correctAnswer": "Humility, faithfulness, and love in action"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "How can a Special Envoy develop future leaders in RA?",
+    "options": [
+      "Assign tasks and observe",
+      "Allow them to assist with meetings",
+      "Model, mentor, and walk beside them in faith and leadership",
+      "Let them plan drills"
+    ],
+    "correctAnswer": "Model, mentor, and walk beside them in faith and leadership"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What mindset should Special Envoys adopt when serving unpopular tasks?",
+    "options": [
+      "Let juniors handle it",
+      "Avoid it and lead big ones",
+      "Serve faithfully and see it as worship to God",
+      "Complete it quickly"
+    ],
+    "correctAnswer": "Serve faithfully and see it as worship to God"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What is the greatest leadership gift you can offer your team?",
+    "options": [
+      "Instruction and discipline",
+      "Planning tools and documents",
+      "Your example of godliness, humility, and dependence on God",
+      "Knowledge of the manual"
+    ],
+    "correctAnswer": "Your example of godliness, humility, and dependence on God"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "Which verse can help you lead from a place of peace in trials?",
+    "options": [
+      "Philippians 4:6–7",
+      "Psalm 1:3",
+      "Proverbs 3:7",
+      "James 4:8"
+    ],
+    "correctAnswer": "Philippians 4:6–7"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What fruit of the Spirit should always guide a Special Envoy's words?",
+    "options": [
+      "Joy",
+      "Self-control and gentleness",
+      "Faithfulness",
+      "Love"
+    ],
+    "correctAnswer": "Self-control and gentleness"
+  },
+  {
+    "rank": "Special Envoy",
+    "question": "What legacy should a faithful Special Envoy leave in their chapter?",
+    "options": [
+      "Activity records and badges",
+      "A path of faith, mentorship, and Christ-centered impact",
+      "Parade drills and mission awards",
+      "Excellent reflections"
+    ],
+    "correctAnswer": "A path of faith, mentorship, and Christ-centered impact"
+  },
+
+  {
+    "rank": "Senior Envoy",
+    "question": "What distinguishes a Senior Envoy from a Special Envoy in leadership responsibility?",
+    "options": [
+      "They lead all camps",
+      "They wear a new badge",
+      "They take on strategic planning, spiritual oversight, and mentoring across levels",
+      "They memorize more verses"
+    ],
+    "correctAnswer": "They take on strategic planning, spiritual oversight, and mentoring across levels"
+  },
+  {
+    "rank": "Senior Envoy",
+    "question": "What does Acts 6:3 teach about selecting godly leaders?",
+    "options": [
+      "They must be good speakers",
+      "They must be strong physically",
+      "They must be full of the Spirit and wisdom",
+      "They must be well known in the church"
+    ],
+    "correctAnswer": "They must be full of the Spirit and wisdom"
+  },
+  {
+    "rank": "Senior Envoy",
+    "question": "Why is character more important than skill at the Senior Envoy level?",
+    "options": [
+      "Skills can be taught, but character reveals the heart that leads others",
+      "Character earns badges",
+      "Skills are temporary",
+      "It prevents disobedience"
+    ],
+    "correctAnswer": "Skills can be taught, but character reveals the heart that leads others"
+  },
+  {
+    "rank": "Senior Envoy",
+    "question": "Which leadership quality best aligns with 2 Timothy 2:2?",
+    "options": [
+      "Teachability",
+      "Strength",
+      "Faithfulness in passing on truth to reliable people",
+      "Public speaking"
+    ],
+    "correctAnswer": "Faithfulness in passing on truth to reliable people"
+  },
+  {
+    "rank": "Senior Envoy",
+    "question": "How should a Senior Envoy measure success in RA service?",
+    "options": [
+      "By number of events planned",
+      "By badges earned",
+      "By transformation of lives and alignment with God’s purpose",
+      "By leader approval"
+    ],
+    "correctAnswer": "By transformation of lives and alignment with God’s purpose"
+  },
+  {
+    "rank": "Senior Envoy",
+    "question": "Which passage encourages Senior Envoys to remain grounded in Scripture for effective ministry?",
+    "options": [
+      "Psalm 23:1",
+      "Romans 8:28",
+      "2 Timothy 3:16–17",
+      "Matthew 5:16"
+    ],
+    "correctAnswer": "2 Timothy 3:16–17"
+  },
+  {
+    "rank": "Senior Envoy",
+    "question": "What should be the tone of a Senior Envoy’s leadership?",
+    "options": [
+      "Firm and commanding",
+      "Quiet and passive",
+      "Christlike love, bold truth, and servant example",
+      "Administrative and procedural"
+    ],
+    "correctAnswer": "Christlike love, bold truth, and servant example"
+  },
+  {
+    "rank": "Senior Envoy",
+    "question": "What should guide a Senior Envoy when mentoring a struggling junior?",
+    "options": [
+      "Offer tasks instead of teaching",
+      "Quote rules to them",
+      "Walk with them through Scripture, prayer, and accountability",
+      "Let them observe others instead"
+    ],
+    "correctAnswer": "Walk with them through Scripture, prayer, and accountability"
+  },
+  {
+    "rank": "Senior Envoy",
+    "question": "What is a wise way to balance confidence and humility in RA leadership?",
+    "options": [
+      "Lead often and talk less",
+      "Take charge but stay quiet",
+      "Act boldly in truth while depending entirely on God",
+      "Let others handle challenges"
+    ],
+    "correctAnswer": "Act boldly in truth while depending entirely on God"
+  },
+  {
+    "rank": "Senior Envoy",
+    "question": "Which of these is NOT a fruit of spiritual leadership?",
+    "options": [
+      "Transformed character",
+      "Increased control",
+      "Humble service",
+      "Faithful discipleship"
+    ],
+    "correctAnswer": "Increased control"
+  },
+  {
+    "rank": "Senior Envoy",
+    "question": "What should a Senior Envoy prioritize during conflicts in the RA chapter?",
+    "options": [
+      "Taking sides quickly",
+      "Pushing for majority opinion",
+      "Bringing peace through prayerful wisdom and Scriptural guidance",
+      "Stepping away silently"
+    ],
+    "correctAnswer": "Bringing peace through prayerful wisdom and Scriptural guidance"
+  },
+  {
+    "rank": "Senior Envoy",
+    "question": "Why is reflection after service projects critical at this level?",
+    "options": [
+      "To complete documentation",
+      "To correct errors",
+      "To see where God moved, where to grow, and how to lead better",
+      "To evaluate team energy"
+    ],
+    "correctAnswer": "To see where God moved, where to grow, and how to lead better"
+  },
+  {
+    "rank": "Senior Envoy",
+    "question": "Which leadership danger is common for highly experienced RA members?",
+    "options": [
+      "Delegation failure",
+      "Spiritual pride and routine-driven service",
+      "Poor speaking skills",
+      "Over-preparation"
+    ],
+    "correctAnswer": "Spiritual pride and routine-driven service"
+  },
+  {
+    "rank": "Senior Envoy",
+    "question": "What does it mean to lead from overflow rather than pressure?",
+    "options": [
+      "Plan during free time",
+      "Serve when rested",
+      "Serve from time spent with God, not just obligation",
+      "Avoid hard projects"
+    ],
+    "correctAnswer": "Serve from time spent with God, not just obligation"
+  },
+  {
+    "rank": "Senior Envoy",
+    "question": "How can a Senior Envoy model faith during tough RA challenges?",
+    "options": [
+      "Speak only when spoken to",
+      "Pray, keep hope alive, and lead in obedience despite emotions",
+      "Withdraw for a season",
+      "Reassign the work"
+    ],
+    "correctAnswer": "Pray, keep hope alive, and lead in obedience despite emotions"
+  },
+  {
+    "rank": "Senior Envoy",
+    "question": "Which is the best description of RA servant leadership at the Senior Envoy level?",
+    "options": [
+      "Efficiency and authority",
+      "Excellence in projects",
+      "Faithful influence that equips others and honors Christ",
+      "Leading through personality"
+    ],
+    "correctAnswer": "Faithful influence that equips others and honors Christ"
+  },
+  {
+    "rank": "Senior Envoy",
+    "question": "Which verse reminds leaders to do everything as unto the Lord?",
+    "options": [
+      "Colossians 3:23",
+      "1 Peter 5:7",
+      "Psalm 1:2",
+      "Matthew 28:20"
+    ],
+    "correctAnswer": "Colossians 3:23"
+  },
+  {
+    "rank": "Senior Envoy",
+    "question": "What is the danger in serving to please people rather than God?",
+    "options": [
+      "It causes stress only",
+      "It invites comparison",
+      "It leads to shallow work and loss of spiritual focus",
+      "It affects promotion"
+    ],
+    "correctAnswer": "It leads to shallow work and loss of spiritual focus"
+  },
+  {
+    "rank": "Senior Envoy",
+    "question": "What is one way to recognize when you're leading in the flesh instead of by the Spirit?",
+    "options": [
+      "You're more tired",
+      "You forget your memory verse",
+      "You rely on control, fear, or pride instead of grace, peace, and wisdom",
+      "You pray aloud more"
+    ],
+    "correctAnswer": "You rely on control, fear, or pride instead of grace, peace, and wisdom"
+  },
+  {
+    "rank": "Senior Envoy",
+    "question": "What should a Senior Envoy do before every leadership responsibility?",
+    "options": [
+      "Check their team list",
+      "Dress correctly",
+      "Pray, examine their heart, and submit the task to God",
+      "Ask for permission"
+    ],
+    "correctAnswer": "Pray, examine their heart, and submit the task to God"
+  },
+  {
+    "rank": "Senior Envoy",
+    "question": "What is the role of vulnerability in leadership?",
+    "options": [
+      "It confuses the team",
+      "It’s a sign of weakness",
+      "It invites trust, shows dependence on Christ, and encourages others",
+      "It delays progress"
+    ],
+    "correctAnswer": "It invites trust, shows dependence on Christ, and encourages others"
+  },
+  {
+    "rank": "Senior Envoy",
+    "question": "How does a Senior Envoy cultivate a legacy that lasts?",
+    "options": [
+      "Serve often and be seen",
+      "Document everything",
+      "Disciple others in truth, model Christ, and train faithful leaders",
+      "Be part of every committee"
+    ],
+    "correctAnswer": "Disciple others in truth, model Christ, and train faithful leaders"
+  },
+  {
+    "rank": "Senior Envoy",
+    "question": "Why is self-examination important for a Senior Envoy?",
+    "options": [
+      "To avoid sin",
+      "To follow promotion rules",
+      "Because unchecked motives lead to pride and misdirection in service",
+      "It is part of the RA form"
+    ],
+    "correctAnswer": "Because unchecked motives lead to pride and misdirection in service"
+  },
+  {
+    "rank": "Senior Envoy",
+    "question": "What is your responsibility when juniors look to you for example?",
+    "options": [
+      "Perform better publicly",
+      "Lead devotions often",
+      "Live transparently, love deeply, and walk in truth privately and publicly",
+      "Teach more often"
+    ],
+    "correctAnswer": "Live transparently, love deeply, and walk in truth privately and publicly"
+  },
 
       ]
       

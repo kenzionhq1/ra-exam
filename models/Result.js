@@ -1,6 +1,6 @@
 import mongoose from 'mongoose';
 
-const ResultSchema = new mongoose.Schema({
+const resultSchema = new mongoose.Schema({
   name: String,
   rank: String,
   score: Number,
@@ -16,4 +16,4 @@ const ResultSchema = new mongoose.Schema({
   ]
 }, { timestamps: true });
 
-export default mongoose.model('Result', ResultSchema);
+export default mongoose.model('Result', resultSchema);

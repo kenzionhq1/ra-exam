@@ -5,6 +5,8 @@ import dotenv from 'dotenv';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import compression from 'compression';
+import adminRoutes from './routes/adminRoutes.js';
+
 
 import authRoutes from './routes/authRoutes.js';
 import examRoutes from './routes/examRoutes.js';
@@ -24,7 +26,7 @@ app.use(express.json());
 // Routes
 app.use('/api', authRoutes);
 app.use('/api', examRoutes);
-
+app.use('/api', adminRoutes);
 // Ping route to keep Render awake
 app.get('/api/ping', (req, res) => {
   res.send('PONG');

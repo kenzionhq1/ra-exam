@@ -1,8 +1,9 @@
+// models/User.js
 import mongoose from 'mongoose';
 
-const UserSchema = new mongoose.Schema({
-  name: { type: String, required: true },
-  rank: { type: String, required: true }
-});
-UserSchema.index({ name: 1, rank: 1 }, { unique: true });
-export default mongoose.model('User', UserSchema);
+const userSchema = new mongoose.Schema({
+  name: String,
+  rank: String
+}, { timestamps: true });
+
+export default mongoose.model('User', userSchema);

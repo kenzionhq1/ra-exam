@@ -3,22 +3,20 @@ import Result from '../models/Result.js';
 
 export const getQuestions = async (req, res) => {
   const { rank } = req.query;
-
   const all = await Question.find({ rank }).select('-correctAnswer');
-
-  // Shuffle questions randomly
   const shuffled = all.sort(() => 0.5 - Math.random());
-
-  // Pick first 100
   const selected = shuffled.slice(0, 50);
-
   res.json({ success: true, questions: selected });
 };
 
-
-
 export const submitExam = async (req, res) => {
   const { name, rank, answers } = req.body;
+
+  const alreadyDone = await Result.findOne({ name, rank });
+  if (alreadyDone) {
+    return res.json({ success: false, message: "Already submitted", result: alreadyDone });
+  }
+
   const questionIds = Object.keys(answers);
   const questions = await Question.find({ _id: { $in: questionIds } });
 

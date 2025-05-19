@@ -3,13 +3,6 @@ import Result from '../models/Result.js';
 export const startExam = async (req, res) => {
   const { name, rank } = req.body;
 
-  if (!name || !rank) {
-    return res.status(400).json({
-      success: false,
-      message: 'Name and rank are required.'
-    });
-  }
-
   const existing = await Result.findOne({ name, rank });
   if (existing) {
     return res.json({
@@ -21,9 +14,6 @@ export const startExam = async (req, res) => {
   }
 
   // Allow first-time users
-  const newResult = new Result({ name, rank });
-  await newResult.save();
-
   return res.json({
     success: true,
     allowed: true
