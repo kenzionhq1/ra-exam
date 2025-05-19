@@ -4,7 +4,7 @@ import User from '../models/User.js';
 const router = express.Router();
 
 // Hardcoded admin password (for now)
-const ADMIN_PASSWORD = process.env.ADMIN_PANEL_PASSWORD 
+const ADMIN_PASSWORD = process.env.ADMIN_PANEL_PASSWORD || "kenzion is the best";
 
 // Admin login route
 router.post('/admin-login', (req, res) => {
