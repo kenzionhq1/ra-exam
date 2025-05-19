@@ -66,3 +66,18 @@ export const getResultById = async (req, res) => {
   if (!result) return res.status(404).json({ success: false });
   res.json({ success: true, result });
 };
+
+import Result from '../models/Result.js';
+
+// ...
+
+export const checkAlreadySubmitted = async (req, res) => {
+  const { name, rank } = req.body;
+
+  const result = await Result.findOne({ name, rank });
+  if (result) {
+    return res.json({ submitted: true, result });
+  }
+
+  res.json({ submitted: false });
+};
