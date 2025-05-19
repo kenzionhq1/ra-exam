@@ -69,13 +69,15 @@ export const getResultById = async (req, res) => {
 
 
 
-export const checkAlreadySubmitted = async (req, res) => {
-  const { name, rank } = req.body;
 
-  const result = await Result.findOne({ name, rank });
-  if (result) {
-    return res.json({ submitted: true, result });
+
+export const deleteResult = async (req, res) => {
+  try {
+    const deleted = await Result.findByIdAndDelete(req.params.id);
+    if (!deleted) return res.status(404).json({ success: false, message: "Result not found" });
+    res.json({ success: true });
+  } catch (err) {
+    res.status(500).json({ success: false });
   }
-
-  res.json({ submitted: false });
 };
+
