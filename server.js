@@ -27,6 +27,8 @@ app.use(express.json());
 app.use('/api', authRoutes);
 app.use('/api', examRoutes);
 app.use('/api', adminRoutes);
+app.use('/api/admin', adminRoutes);
+
 // Ping route to keep Render awake
 app.get('/api/ping', (req, res) => {
   res.send('PONG');
