@@ -1,11 +1,10 @@
-import express from 'express';
 import {
   getQuestions,
   submitExam,
   getAllResults,
   getResultById,
-  checkAlreadySubmitted,
-  deleteResult
+  deleteResult,
+  checkAlreadySubmitted // ✅ this must now exist
 } from '../controllers/examController.js';
 
 const router = express.Router();
