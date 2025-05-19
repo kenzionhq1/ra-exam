@@ -67,7 +67,7 @@ export const getResultById = async (req, res) => {
   res.json({ success: true, result });
 };
 
-import Result from '../models/Result.js';
+
 
 // ...
 
