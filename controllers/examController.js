@@ -1,6 +1,16 @@
 import Question from '../models/Question.js';
 import Result from '../models/Result.js';
 
+export const getQuestions = async (req, res) => {
+  const { rank } = req.query;
+
+  const all = await Question.find({ rank }).select('-correctAnswer');
+  const shuffled = all.sort(() => 0.5 - Math.random());
+  const selected = shuffled.slice(0, 50); // Adjust size as needed
+
+  res.json({ success: true, questions: selected });
+};
+
 export const submitExam = async (req, res) => {
   const { name, rank, answers } = req.body;
 
@@ -13,7 +23,6 @@ export const submitExam = async (req, res) => {
     });
   }
 
-  // Get all questions for rank and select 50
   const all = await Question.find({ rank });
   const selected = all.sort(() => 0.5 - Math.random()).slice(0, 50);
 
@@ -23,6 +32,7 @@ export const submitExam = async (req, res) => {
     const userAnswer = answers[q._id] || null;
     const isCorrect = userAnswer === q.correctAnswer;
     if (isCorrect) score++;
+
     return {
       question: q.question,
       options: q.options,
@@ -44,4 +54,15 @@ export const submitExam = async (req, res) => {
   await result.save();
 
   res.json({ success: true, score, percentage, answers: review });
+};
+
+export const getAllResults = async (req, res) => {
+  const results = await Result.find().sort({ createdAt: -1 });
+  res.json({ success: true, results });
+};
+
+export const getResultById = async (req, res) => {
+  const result = await Result.findById(req.params.id);
+  if (!result) return res.status(404).json({ success: false });
+  res.json({ success: true, result });
 };
