@@ -69,8 +69,6 @@ export const getResultById = async (req, res) => {
 
 
 
-// ...
-
 export const checkAlreadySubmitted = async (req, res) => {
   const { name, rank } = req.body;
 
