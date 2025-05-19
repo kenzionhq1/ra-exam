@@ -58,13 +58,5 @@ router.delete('/delete-user/:id', async (req, res) => {
   res.json({ success: true });
 });
 
-router.delete('/delete-result/:id', async (req, res) => {
-    try {
-      await Result.findByIdAndDelete(req.params.id);
-      res.json({ success: true });
-    } catch (err) {
-      res.status(500).json({ success: false });
-    }
-  });
-  
+
 export default router;
