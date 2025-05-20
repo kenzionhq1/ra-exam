@@ -3,9 +3,10 @@ import {
   submitExam,
   getAllResults,
   getResultById,
-  deleteResult,
-  checkAlreadySubmitted // ✅ this must now exist
+  checkAlreadySubmitted,
+  deleteResult // ✅ THIS must match exactly
 } from '../controllers/examController.js';
+
 
 const router = express.Router();
 
