@@ -30,6 +30,8 @@ export const submitExam = async (req, res) => {
         result: alreadyDone
       });
     }
+    
+    
 
     // Get the exact questions user answered (or skipped)
     const questionIds = Object.keys(answers);
@@ -106,12 +108,9 @@ export const deleteResult = async (req, res) => {
   try {
     const deleted = await Result.findByIdAndDelete(req.params.id);
     if (!deleted) return res.status(404).json({ success: false, message: "Result not found" });
-
     res.json({ success: true });
   } catch (err) {
     res.status(500).json({ success: false, message: "Error deleting result" });
   }
 };
-
-
 

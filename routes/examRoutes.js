@@ -6,9 +6,8 @@ import {
   getAllResults,
   getResultById,
   checkAlreadySubmitted,
-  deleteResult // ✅ THIS must match exactly
+  deleteResult
 } from '../controllers/examController.js';
-
 
 const router = express.Router();
 
