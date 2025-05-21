@@ -30,20 +30,12 @@ export const submitExam = async (req, res) => {
         result: alreadyDone
       });
     }
-    
-    
 
-    // Get the exact questions user answered (or skipped)
     const questionIds = Object.keys(answers);
     const questions = await Question.find({ _id: { $in: questionIds } });
 
-    // If user skipped some, include them as null
-    const all = await Question.find({ rank });
-    const shuffled = all.sort(() => 0.5 - Math.random());
-    const selected = shuffled.slice(0, 50);
-
     let score = 0;
-    const review = selected.map(q => {
+    const review = questions.map(q => {
       const userAnswer = answers[q._id] || null;
       const isCorrect = userAnswer === q.correctAnswer;
       if (isCorrect) score++;
@@ -56,14 +48,14 @@ export const submitExam = async (req, res) => {
       };
     });
 
-    const percentage = Math.round((score / selected.length) * 100);
+    const percentage = Math.round((score / questions.length) * 100);
 
     const result = new Result({
       name,
       rank,
       score,
       percentage,
-      totalQuestions: selected.length,
+      totalQuestions: questions.length,
       answers: review
     });
 
@@ -71,11 +63,10 @@ export const submitExam = async (req, res) => {
 
     res.json({ success: true, score, percentage, answers: review });
   } catch (err) {
-    console.error("Error submitting exam:", err);
+    console.error("Error during exam submission:", err);
     res.status(500).json({ success: false, message: "Error submitting exam" });
   }
 };
-
 
 // GET all results for admin
 export const getAllResults = async (req, res) => {
@@ -113,4 +104,3 @@ export const deleteResult = async (req, res) => {
     res.status(500).json({ success: false, message: "Error deleting result" });
   }
 };
-
